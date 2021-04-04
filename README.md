@@ -12,6 +12,6 @@ Currently, there's only one data file, municipios_classificacao.csv with the fol
 * Codigo - City code issue by IBGE
 * Nome - City name
 * Populacao - City Population
-* obitos/habitante - COVID Deaths by 1.000.000 people
+* Obitos/habitante - COVID Deaths by 1.000.000 people
 
 This repository is part of the [Zero Bias Project](https://zerobias.info)
