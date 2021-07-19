@@ -114,7 +114,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1703842,Campos Lindos (TO),10116,3,296.6
 1,3138682,Luislândia (MG),6699,2,298.6
 1,5214903,Nova Roma (GO),3264,1,306.4
-1,4120150,Porto Barreiro (PR),3237,1,308.9
 1,5219803,São Domingos (GO),12949,4,308.9
 1,2105609,Joselândia (MA),16168,5,309.3
 1,2929800,Saúde (BA),12913,4,309.8
@@ -242,7 +241,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3120151,Crisólita (MG),6704,3,447.5
 1,2112852,Vila Nova dos Martírios (MA),13392,6,448.0
 1,2905503,Caldeirão Grande (BA),13327,6,450.2
-1,2409100,Passa e Fica (RN),13277,6,451.9
 1,4115903,Mirador (PR),2213,1,451.9
 1,3162658,São João do Pacuí (MG),4419,2,452.6
 1,3120102,Couto de Magalhães de Minas (MG),4410,2,453.5
@@ -328,6 +326,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4126108,São Tomé (PR),5722,3,524.3
 1,5200829,Amaralina (GO),3812,2,524.7
 1,4319356,São Pedro da Serra (RS),3801,2,526.2
+1,2409100,Passa e Fica (RN),13277,7,527.2
 1,2100303,Aldeias Altas (MA),26532,14,527.7
 1,2101251,Bacabeira (MA),17055,9,527.7
 1,4312625,Muliterno (RS),1893,1,528.3
@@ -346,7 +345,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2204204,Francisco Santos (PI),9319,5,536.5
 1,2611507,Quipapá (PE),26037,14,537.7
 1,3162450,São João das Missões (MG),13014,7,537.9
-1,2930758,Sítio do Mato (BA),13012,7,538.0
 1,1505635,Piçarra (PA),12981,7,539.2
 1,2924207,Pedro Alexandre (BA),16667,9,540.0
 1,3166402,Seritinga (MG),1851,1,540.2
@@ -382,7 +380,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3153707,Quartel Geral (MG),3563,2,561.3
 1,2912202,Ibicoara (BA),19571,11,562.1
 1,4108650,Goioxim (PR),7111,4,562.5
-1,1703008,Babaçulândia (TO),10664,6,562.6
 1,1713957,Muricilândia (TO),3551,2,563.2
 1,4312955,Nova Boa Vista (RS),1775,1,563.4
 1,2111904,Sucupira do Norte (MA),10636,6,564.1
@@ -396,12 +393,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2703502,Jacuípe (AL),7021,4,569.7
 1,2209377,Santa Rosa do Piauí (PI),5257,3,570.7
 1,3145406,Olaria (MG),1747,1,572.4
-1,2407401,Martins (RN),8725,5,573.1
 1,2107357,Nova Olinda do Maranhão (MA),20928,12,573.4
 1,2708204,São Brás (AL),6961,4,574.6
 1,3142601,Monsenhor Paulo (MG),8688,5,575.5
 1,3165404,Sapucaí-Mirim (MG),6930,4,577.2
-1,2925907,Quijingue (BA),27580,16,580.1
 1,2909000,Cordeiros (BA),8614,5,580.5
 1,5213509,Monte Alegre de Goiás (GO),8606,5,581.0
 1,2104909,Guimarães (MA),12030,7,581.9
@@ -448,10 +443,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2930006,Sebastião Laranjeiras (BA),11434,7,612.2
 1,3170479,Uruana de Minas (MG),3264,2,612.7
 1,1703305,Bom Jesus do Tocantins (TO),4894,3,613.0
-1,1508035,Tracuateua (PA),30959,19,613.7
 1,2608701,Lagoa dos Gatos (PE),16290,10,613.9
 1,1504505,Melgaço (PA),27654,17,614.7
+1,2930758,Sítio do Mato (BA),13012,8,614.8
 1,2400406,Água Nova (RN),3252,2,615.0
+1,2925907,Quijingue (BA),27580,17,616.4
 1,3136579,Josenópolis (MG),4867,3,616.4
 1,2926509,Ribeira do Amparo (BA),14592,9,616.8
 1,4210308,Major Vieira (SC),8103,5,617.1
@@ -487,7 +483,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2914406,Iraquara (BA),25216,16,634.5
 1,2201002,Arraial (PI),4727,3,634.7
 1,2902609,Baixa Grande (BA),20468,13,635.1
-1,2907905,Cipó (BA),17300,11,635.8
 1,3543105,Ribeirão Corrente (SP),4718,3,635.9
 1,1718006,Porto Alegre do Tocantins (TO),3139,2,637.1
 1,3301504,Cordeiro (RJ),21926,14,638.5
@@ -500,6 +495,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2907558,Caturama (BA),9329,6,643.2
 1,1712454,Luzinópolis (TO),3108,2,643.5
 1,2913309,Ichu (BA),6206,4,644.5
+1,1508035,Tracuateua (PA),30959,20,646.0
 1,2916500,Itapicuru (BA),35576,23,646.5
 1,2905008,Caculé (BA),23170,15,647.4
 1,5222203,Vila Boa (GO),6171,4,648.2
@@ -519,6 +515,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3123403,Doresópolis (MG),1527,1,654.9
 1,3151701,Poço Fundo (MG),16791,11,655.1
 1,2210359,São Lourenço do Piauí (PI),4573,3,656.0
+1,1703008,Babaçulândia (TO),10664,7,656.4
 1,3536802,Pedra Bela (SP),6093,4,656.5
 1,4209805,Leoberto Leal (SC),3041,2,657.7
 1,2510600,Ouro Velho (PB),3039,2,658.1
@@ -533,7 +530,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3556354,Vargem (SP),10537,7,664.3
 1,3171808,Virginópolis (MG),10510,7,666.0
 1,2205250,Jardim do Mulato (PI),4504,3,666.1
-1,1600154,Pedra Branca do Amapari (AP),16502,11,666.6
 1,2208650,Queimada Nova (PI),8992,6,667.3
 1,2606309,Granito (PE),7486,5,667.9
 1,4300703,Anta Gorda (RS),5981,4,668.8
@@ -566,6 +562,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2929404,São Miguel das Matas (BA),11675,8,685.2
 1,5219407,Santa Rita do Araguaia (GO),8756,6,685.2
 1,2109270,Presidente Sarney (MA),18918,13,687.2
+1,2407401,Martins (RN),8725,6,687.7
 1,2905156,Caetanos (BA),14542,10,687.7
 1,2707008,Pindoba (AL),2908,2,687.8
 1,3112307,Capelinha (MG),37784,26,688.1
@@ -573,6 +570,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3110400,Camacho (MG),2901,2,689.4
 1,3136801,Juramento (MG),4331,3,692.7
 1,4211454,Nova Itaberaba (SC),4331,3,692.7
+1,2907905,Cipó (BA),17300,12,693.6
 1,4309159,Gramado Xavier (RS),4325,3,693.6
 1,4214300,Rancho Queimado (SC),2878,2,694.9
 1,2311900,Saboeiro (CE),15819,11,695.4
@@ -606,6 +604,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2708501,São Luís do Quitunde (AL),34555,25,723.5
 1,4304853,Carlos Gomes (RS),1377,1,726.2
 1,2402808,Coronel Ezequiel (RN),5506,4,726.5
+1,1600154,Pedra Branca do Amapari (AP),16502,12,727.2
 1,2411601,São Bento do Norte (RN),2747,2,728.1
 1,3155900,Rio Preto (MG),5476,4,730.5
 1,2102754,Capinzal do Norte (MA),10934,8,731.7
@@ -620,7 +619,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2110104,Santa Quitéria do Maranhão (MA),25642,19,741.0
 1,1502764,Cumaru do Norte (PA),13473,10,742.2
 1,3109808,Cachoeira Dourada (MG),2692,2,742.9
-1,1504901,Muaná (PA),40349,30,743.5
 1,2111672,São Roberto (MA),6719,5,744.2
 1,2923357,Ourolândia (BA),17451,13,744.9
 1,2929255,São Gabriel (BA),18793,14,745.0
@@ -637,7 +635,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2203750,Fartura do Piauí (PI),5307,4,753.7
 1,4207759,Iraceminha (SC),3976,3,754.5
 1,2709202,Traipu (AL),27715,21,757.7
-1,1300706,Boca do Acre (AM),34308,26,757.8
 1,2513653,Joca Claudino (PB),2636,2,758.7
 1,3115201,Conceição da Barra de Minas (MG),3954,3,758.7
 1,2706422,Pariconha (AL),10533,8,759.5
@@ -652,18 +649,16 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1503093,Goianésia do Pará (PA),40475,31,765.9
 1,2110203,Santa Rita (MA),37855,29,766.1
 1,1301308,Codajás (AM),28637,22,768.2
-1,2406502,Lagoa Nova (RN),15614,12,768.5
+1,1504901,Muaná (PA),40349,31,768.3
 1,2702553,Estrela de Alagoas (AL),18205,14,769.0
 1,3523701,Itirapuã (SP),6499,5,769.3
 1,2904308,Brejões (BA),14295,11,769.5
 1,5213053,Mimoso de Goiás (GO),2597,2,770.1
-1,2701803,Carneiros (AL),9081,7,770.8
 1,1600238,Ferreira Gomes (AP),7780,6,771.2
 1,3132107,Itacarambi (MG),18153,14,771.2
 1,2911600,Governador Mangabeira (BA),20722,16,772.1
 1,2926905,Rio do Pires (BA),11655,9,772.2
 1,2106409,Mata Roma (MA),16829,13,772.5
-1,5006358,Paranhos (MS),14228,11,773.1
 1,3165305,São Vicente de Minas (MG),7753,6,773.9
 1,2204303,Fronteiras (PI),11625,9,774.2
 1,2513505,Santana de Mangueira (PB),5162,4,774.9
@@ -685,6 +680,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3554805,Tremembé (SP),47185,37,784.1
 1,2410504,Rafael Fernandes (RN),5098,4,784.6
 1,2104651,Governador Newton Bello (MA),10180,8,785.9
+1,1300706,Boca do Acre (AM),34308,27,787.0
 1,2616183,Vertente do Lério (PE),7618,6,787.6
 1,2933158,Várzea Nova (BA),12697,10,787.6
 1,2501005,Araruna (PB),20312,16,787.7
@@ -716,7 +712,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2206308,Miguel Leão (PI),1246,1,802.6
 1,2502300,Bom Sucesso (PB),4975,4,804.0
 1,3128253,Guaraciama (MG),4972,4,804.5
-1,3162708,São João do Paraíso (MG),23618,19,804.5
 1,2612000,Sairé (PE),9932,8,805.5
 1,3140852,Matias Cardoso (MG),11157,9,806.7
 1,4304309,Cândido Godói (RS),6198,5,806.7
@@ -754,6 +749,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1718303,Praia Norte (TO),8432,7,830.2
 1,3102407,Alvorada de Minas (MG),3606,3,831.9
 1,1600402,Mazagão (AP),21632,18,832.1
+1,2406502,Lagoa Nova (RN),15614,13,832.6
 1,3153004,Pratinha (MG),3603,3,832.6
 1,2923605,Paramirim (BA),21607,18,833.1
 1,2926103,Retirolândia (BA),14396,12,833.6
@@ -776,6 +772,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1507755,Sapucaia (PA),5930,5,843.2
 1,2506608,Ibiara (PB),5929,5,843.3
 1,4202503,Bom Jardim da Serra (SC),4743,4,843.3
+1,5006358,Paranhos (MS),14228,12,843.4
 1,3154507,Riacho dos Machados (MG),9481,8,843.8
 1,2516151,Sossêgo (PB),3555,3,843.9
 1,2911857,Heliópolis (BA),13031,11,844.1
@@ -783,6 +780,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3146503,Pains (MG),8283,7,845.1
 1,1200609,Tarauacá (AC),42567,36,845.7
 1,1718899,Santa Rita do Tocantins (TO),2365,2,845.7
+1,3162708,São João do Paraíso (MG),23618,20,846.8
 1,3539103,Pirapora do Bom Jesus (SP),18895,16,846.8
 1,2707503,Porto Real do Colégio (AL),20066,17,847.2
 1,3119005,Cordislândia (MG),3538,3,847.9
@@ -802,14 +800,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2702603,Feira Grande (AL),22166,19,857.2
 1,2930154,Serra do Ramalho (BA),31472,27,857.9
 1,3300936,Carapebus (RJ),16301,14,858.8
-1,1501600,Bonito (PA),16286,14,859.6
 1,2100550,Amapá do Maranhão (MA),6962,6,861.8
 1,2930303,Serra Dourada (BA),17386,15,862.8
 1,2401404,Baía Formosa (RN),9271,8,862.9
 1,1507706,São Sebastião da Boa Vista (PA),26640,23,863.4
 1,3109451,Cabeceira Grande (MG),6949,6,863.4
 1,4202438,Bocaina do Sul (SC),3474,3,863.6
-1,2928208,Santana (BA),26614,23,864.2
 1,2210623,Sebastião Barros (PI),3469,3,864.8
 1,2701357,Campestre (AL),6936,6,865.1
 1,4117057,Nova Laranjeiras (PR),11554,10,865.5
@@ -845,6 +841,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2905404,Cairu (BA),18176,16,880.3
 1,2108504,Pindaré-Mirim (MA),32941,29,880.4
 1,3541802,Queiroz (SP),3406,3,880.8
+1,2701803,Carneiros (AL),9081,8,881.0
 1,4107538,Entre Rios do Oeste (PR),4539,4,881.3
 1,3542107,Rafard (SP),9076,8,881.4
 1,2931004,Tanhaçu (BA),20403,18,882.2
@@ -852,7 +849,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2206670,Morro do Chapéu do Piauí (PI),6796,6,882.9
 1,3137908,Lamim (MG),3391,3,884.7
 1,2201770,Boa Hora (PI),6781,6,884.8
-1,2606507,Iati (PE),19197,17,885.6
 1,2932804,Utinga (BA),19178,17,886.4
 1,2500205,Aguiar (PB),5640,5,886.5
 1,4120655,Quarto Centenário (PR),4512,4,886.5
@@ -888,6 +884,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3142502,Monjolos (MG),2220,2,900.9
 1,1713809,Palmeiras do Tocantins (TO),6658,6,901.2
 1,2414407,Touros (RN),33287,30,901.3
+1,2928208,Santana (BA),26614,24,901.8
 1,4310702,Itatiba do Sul (RS),3324,3,902.5
 1,4313425,Novo Machado (RS),3323,3,902.8
 1,4115853,Mercedes (PR),5536,5,903.2
@@ -900,7 +897,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1711803,Juarina (TO),2193,2,912.0
 1,3148608,Peçanha (MG),17541,16,912.1
 1,1501253,Bannach (PA),3286,3,913.0
-1,2933000,Valente (BA),28473,26,913.1
 1,2921807,Mortugaba (BA),12042,11,913.5
 1,2207959,Nova Santa Rita (PI),4374,4,914.5
 1,1717503,Pium (TO),7654,7,914.6
@@ -912,6 +908,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2914901,Itacaré (BA),28296,26,918.9
 1,4314472,Pinhal Grande (RS),4350,4,919.5
 1,2600500,Águas Belas (PE),43443,40,920.7
+1,1501600,Bonito (PA),16286,15,921.0
 1,2701209,Cacimbinhas (AL),10858,10,921.0
 1,3138104,Lassance (MG),6512,6,921.4
 1,2408953,Rio do Fogo (RN),10848,10,921.8
@@ -927,6 +924,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1600055,Serra do Navio (AP),5397,5,926.4
 1,2207603,Parnaguá (PI),10791,10,926.7
 1,2414456,Triunfo Potiguar (RN),3237,3,926.8
+1,4120150,Porto Barreiro (PR),3237,3,926.8
 1,2208858,Riacho Frio (PI),4312,4,927.6
 1,2107258,Nova Colinas (MA),5384,5,928.7
 1,1502806,Curralinho (PA),34448,32,928.9
@@ -948,6 +946,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4118303,Paranapoema (PR),3203,3,936.6
 1,4211009,Mondaí (SC),11742,11,936.8
 1,3168002,Taiobeiras (MG),34132,32,937.5
+1,2606507,Iati (PE),19197,18,937.6
 1,2903003,Barra do Mendes (BA),13865,13,937.6
 1,3145703,Oliveira Fortes (MG),2133,2,937.6
 1,1507201,São Domingos do Capim (PA),31989,30,937.8
@@ -969,6 +968,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4215455,Sangão (SC),12678,12,946.5
 1,4322558,Vanini (RS),2113,2,946.5
 1,2206209,Miguel Alves (PI),33760,32,947.9
+1,2933000,Valente (BA),28473,27,948.3
 1,3521200,Iporanga (SP),4218,4,948.3
 1,4208401,Itapiranga (SC),16872,16,948.3
 1,2703759,Jequiá da Praia (AL),11580,11,949.9
@@ -1007,7 +1007,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2202729,Cocal dos Alves (PI),6153,6,975.1
 1,2931806,Tremedal (BA),16394,16,976.0
 1,5221809,Urutaí (GO),3072,3,976.6
-1,2911105,Formosa do Rio Preto (BA),25591,25,976.9
 1,3154150,Reduto (MG),7154,7,978.5
 1,2200301,Alto Longá (PI),14304,14,978.7
 1,3127339,Gameleiras (MG),5109,5,978.7
@@ -1019,7 +1018,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2100501,Alto Parnaíba (MA),11190,11,983.0
 1,2205581,Lagoa do Piauí (PI),4064,4,984.3
 1,4302659,Brochier (RS),5074,5,985.4
-1,2903409,Belmonte (BA),23328,23,985.9
 1,2601003,Angelim (PE),11150,11,986.5
 1,2202554,Caridade do Piauí (PI),5067,5,986.8
 1,1506401,Santa Cruz do Arari (PA),10128,10,987.4
@@ -1043,7 +1041,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3165602,Senador Cortes (MG),2005,2,997.5
 1,3164431,São Sebastião da Vargem Alegre (MG),3007,3,997.7
 1,2100436,Alto Alegre do Maranhão (MA),27053,27,998.0
-1,4104402,Cândido de Abreu (PR),15018,15,998.8
 1,3137403,Lagoa Dourada (MG),13009,13,999.3
 1,3122801,Dom Viçoso (MG),3001,3,999.7
 1,5107578,Rondolândia (MT),4001,4,999.8
@@ -1095,6 +1092,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3165701,Senador Firmino (MG),7812,8,1024.1
 1,3152402,Poté (MG),16555,17,1026.9
 1,2512036,Poço Dantas (PB),3888,4,1028.8
+1,2903409,Belmonte (BA),23328,24,1028.8
 1,4107256,Douradina (PR),8747,9,1028.9
 1,2910503,Entre Rios (BA),41780,43,1029.2
 1,4311981,Mariana Pimentel (RS),3885,4,1029.6
@@ -1112,7 +1110,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2612554,Santa Filomena (PE),14477,15,1036.1
 1,4305702,Condor (RS),6753,7,1036.6
 1,3166006,Senhora de Oliveira (MG),5786,6,1037.0
-1,4102901,Bituruna (PR),16389,17,1037.3
 1,2112902,Vitória do Mearim (MA),32764,34,1037.7
 1,2107209,Nina Rodrigues (MA),14454,15,1037.8
 1,2410108,Poço Branco (RN),15413,16,1038.1
@@ -1153,13 +1150,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3542701,Restinga (SP),7593,8,1053.6
 1,2311009,Poranga (CE),12336,13,1053.8
 1,1505494,Palestina do Pará (PA),7589,8,1054.2
+1,2911105,Formosa do Rio Preto (BA),25591,27,1055.1
 1,2927002,Rio Real (BA),40732,43,1055.7
 1,5204904,Campos Belos (GO),19887,21,1056.0
 1,2112001,Tasso Fragoso (MA),8521,9,1056.2
 1,4128807,Xambrê (PR),5679,6,1056.5
 1,2609105,Machados (PE),16088,17,1056.7
 1,1721257,Tupirama (TO),1891,2,1057.6
-1,2609204,Maraial (PE),11345,12,1057.7
 1,2509503,Montadas (PB),5669,6,1058.4
 1,2913457,Igrapiúna (BA),13226,14,1058.5
 1,4310462,Ipiranga do Sul (RS),1889,2,1058.8
@@ -1180,7 +1177,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5101209,Araguainha (MT),935,1,1069.5
 1,5001243,Aral Moreira (MS),12149,13,1070.0
 1,1200435,Santa Rosa do Purus (AC),6540,7,1070.3
-1,2927200,Ruy Barbosa (BA),30814,33,1070.9
 1,4302006,Barros Cassal (RS),11199,12,1071.5
 1,2901908,Aporá (BA),17731,19,1071.6
 1,2101004,Arari (MA),29848,32,1072.1
@@ -1208,7 +1204,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2916708,Itaquara (BA),8319,9,1081.9
 1,2506251,Gado Bravo (PB),8316,9,1082.3
 1,3538303,Piquerobi (SP),3692,4,1083.4
-1,2923001,Nova Viçosa (BA),43376,47,1083.5
 1,2708402,São José da Tapera (AL),32260,35,1084.9
 1,2209856,São João da Canabrava (PI),4608,5,1085.1
 1,2908507,Conceição do Jacuípe (BA),33153,36,1085.9
@@ -1219,9 +1214,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4304697,Capitão (RS),2757,3,1088.1
 1,2102150,Brejo de Areia (MA),9188,10,1088.4
 1,3156452,Rosário da Limeira (MG),4594,5,1088.4
-1,2909307,Correntina (BA),32137,35,1089.1
 1,2311231,Potiretama (CE),6419,7,1090.5
-1,2901205,Anagé (BA),22005,24,1090.7
 1,2502409,Bonito de Santa Fé (PB),11917,13,1090.9
 1,3105103,Bambuí (MG),23829,26,1091.1
 1,2929107,São Felipe (BA),21074,23,1091.4
@@ -1254,12 +1247,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2922052,Mulungu do Morro (BA),10889,12,1102.0
 1,4119004,Pérola d'Oeste (PR),6347,7,1102.9
 1,3548609,São Bento do Sapucaí (SP),10878,12,1103.1
-1,2925006,Planalto (BA),26265,29,1104.1
+1,2927200,Ruy Barbosa (BA),30814,34,1103.4
 1,2607604,Ilha de Itamaracá (PE),26258,29,1104.4
 1,2925956,Rafael Jambeiro (BA),22621,25,1105.2
 1,3537107,Pedreira (SP),47919,53,1106.0
 1,3154457,Riachinho (MG),8136,9,1106.2
 1,1505007,Nova Timboteua (PA),15363,17,1106.6
+1,2923001,Nova Viçosa (BA),43376,48,1106.6
 1,2910305,Elísio Medrado (BA),8122,9,1108.1
 1,2208502,Porto (PI),12568,14,1113.9
 1,4312252,Minas do Leão (RS),8075,9,1114.6
@@ -1273,6 +1267,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2507804,Junco do Seridó (PB),7150,8,1118.9
 1,2930600,Serrolândia (BA),13397,15,1119.7
 1,2915700,Itamari (BA),8035,9,1120.1
+1,2909307,Correntina (BA),32137,36,1120.2
 1,4300901,Aratiba (RS),6235,7,1122.7
 1,1721307,Tupiratins (TO),2671,3,1123.2
 1,4121752,Reserva do Iguaçu (PR),8010,9,1123.6
@@ -1291,6 +1286,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3507456,Borebi (SP),2653,3,1130.8
 1,2512002,Pocinhos (PB),18564,21,1131.2
 1,3157005,Salinas (MG),41527,47,1131.8
+1,4104402,Cândido de Abreu (PR),15018,17,1132.0
 1,1303502,Pauini (AM),19426,22,1132.5
 1,2608750,Lagoa Grande (PE),25601,29,1132.8
 1,3160504,Santo Antônio do Rio Abaixo (MG),1765,2,1133.1
@@ -1298,6 +1294,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2921500,Monte Santo (BA),49418,56,1133.2
 1,2507002,Itaporanga (PB),24692,28,1134.0
 1,3160801,São Bento Abade (MG),5286,6,1135.1
+1,2901205,Anagé (BA),22005,25,1136.1
 1,2106805,Mirinzal (MA),14962,17,1136.2
 1,1506302,Salvaterra (PA),23752,27,1136.7
 1,2918100,Jeremoabo (BA),40463,46,1136.8
@@ -1307,12 +1304,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3109402,Buritizeiro (MG),28056,32,1140.6
 1,2203354,Dirceu Arcoverde (PI),7011,8,1141.1
 1,4217808,Taió (SC),18395,21,1141.6
+1,2925006,Planalto (BA),26265,30,1142.2
 1,2403509,Espírito Santo (RN),10505,12,1142.3
 1,2922607,Nilo Peçanha (BA),13997,16,1143.1
 1,2701100,Branquinha (AL),10494,12,1143.5
 1,3164100,São Pedro do Suaçuí (MG),5246,6,1143.7
 1,2312205,Santa Quitéria (CE),43703,50,1144.1
 1,2103901,Duque Bacelar (MA),11349,13,1145.5
+1,2609204,Maraial (PE),11345,13,1145.9
 1,1301951,Itamarati (AM),7851,9,1146.4
 1,3129905,Ibitiúra de Minas (MG),3488,4,1146.8
 1,2804102,Moita Bonita (SE),11335,13,1146.9
@@ -1347,6 +1346,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1506559,Santa Luzia do Pará (PA),19848,23,1158.8
 1,2402105,Campo Redondo (RN),11217,13,1159.0
 1,2605905,Gameleira (PE),31052,36,1159.3
+1,4102901,Bituruna (PR),16389,19,1159.3
 1,2606705,Ibirajuba (PE),7762,9,1159.5
 1,3554755,Trabiju (SP),1724,2,1160.1
 1,2704401,Major Isidoro (AL),19804,23,1161.4
@@ -1356,7 +1356,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3119708,Coronel Xavier Chaves (MG),3434,4,1164.8
 1,1701051,Angico (TO),3433,4,1165.2
 1,3128006,Guanhães (MG),34319,40,1165.5
-1,2103505,Colinas (MA),41178,48,1165.7
 1,2508208,Lagoa de Dentro (PB),7719,9,1166.0
 1,4311643,Linha Nova (RS),1714,2,1166.9
 1,1712801,Maurilândia do Tocantins (TO),3426,4,1167.5
@@ -1399,6 +1398,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3122207,Divinolândia de Minas (MG),7571,9,1188.7
 1,3100302,Abre Campo (MG),13454,16,1189.2
 1,2207405,Palmeira do Piauí (PI),5043,6,1189.8
+1,2103505,Colinas (MA),41178,49,1190.0
 1,2513851,Santo André (PB),2521,3,1190.0
 1,3116506,Claro dos Poções (MG),7551,9,1191.9
 1,3120607,Crucilândia (MG),5034,6,1191.9
@@ -1529,7 +1529,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2401800,Brejinho (RN),12699,16,1259.9
 1,3508603,Cachoeira Paulista (SP),33327,42,1260.2
 1,4201703,Ascurra (SC),7934,10,1260.4
-1,2906204,Canarana (BA),26176,33,1260.7
 1,3127388,Goianá (MG),3966,5,1260.7
 1,3123205,Dores do Indaiá (MG),13483,17,1260.8
 1,1720150,São Félix do Tocantins (TO),1585,2,1261.8
@@ -1581,7 +1580,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3112109,Caparaó (MG),5438,7,1287.2
 1,4318424,São João da Urtiga (RS),4657,6,1288.4
 1,3160306,Santo Antônio do Jacinto (MG),11640,15,1288.7
-1,4124400,Santo Antônio do Sudoeste (PR),20166,26,1289.3
 1,4103354,Braganey (PR),5427,7,1289.8
 1,1500503,Almeirim (PA),34109,44,1290.0
 1,3146305,Padre Paraíso (MG),20154,26,1290.1
@@ -1598,6 +1596,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4116505,Nova Aliança do Ivaí (PR),1543,2,1296.2
 1,4310405,Independência (RS),6167,8,1297.2
 1,1720259,São Salvador do Tocantins (TO),3082,4,1297.9
+1,2906204,Canarana (BA),26176,34,1298.9
 1,3109709,Cachoeira de Minas (MG),11547,15,1299.0
 1,3158201,Santa Maria do Suaçuí (MG),14615,19,1300.0
 1,2609006,Macaparana (PE),25376,33,1300.4
@@ -1607,11 +1606,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4314035,Pareci Novo (RS),3837,5,1303.1
 1,2108702,Pio XII (MA),21485,28,1303.2
 1,2408904,Parelhas (RN),21477,28,1303.7
-1,2407609,Messias Targino (RN),4601,6,1304.1
 1,1707108,Divinópolis do Tocantins (TO),6900,9,1304.3
 1,2408201,Nísia Floresta (RN),27602,36,1304.3
 1,1501907,Bujaru (PA),29132,38,1304.4
-1,3550506,São Pedro do Turvo (SP),7666,10,1304.5
 1,3303104,Natividade (RJ),15317,20,1305.7
 1,1703073,Barra do Ouro (TO),4591,6,1306.9
 1,3140530,Martins Soares (MG),8417,11,1306.9
@@ -1619,7 +1616,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4203709,Canelinha (SC),12240,16,1307.2
 1,3103405,Araçuaí (MG),36708,48,1307.6
 1,4311718,Maçambará (RS),4587,6,1308.0
-1,2310407,Paramoti (CE),12226,16,1308.7
 1,3118403,Conselheiro Pena (MG),22921,30,1308.8
 1,2107704,Paraibano (MA),21386,28,1309.3
 1,2921005,Mata de São João (BA),46583,61,1309.5
@@ -1631,7 +1627,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2501104,Areia (PB),22819,30,1314.7
 1,2801306,Capela (SE),34213,45,1315.3
 1,2209757,São Gonçalo do Gurguéia (PI),3041,4,1315.4
-1,2511004,Pedra Branca (PB),3801,5,1315.4
 1,2307809,Marco (CE),27361,36,1315.7
 1,2200707,Anísio de Abreu (PI),9880,13,1315.8
 1,2926301,Riachão do Jacuípe (BA),33436,44,1315.9
@@ -1653,7 +1648,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2513927,São Bentinho (PB),4529,6,1324.8
 1,2928950,São Domingos (BA),9058,12,1324.8
 1,2614857,Tamandaré (PE),23388,31,1325.5
-1,2505402,Desterro (PB),8297,11,1325.8
 1,3167301,Silveirânia (MG),2261,3,1326.8
 1,2111805,Sítio Novo (MA),18081,24,1327.4
 1,1715705,Palmeirante (TO),6026,8,1327.6
@@ -1728,7 +1722,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3156809,Sabinópolis (MG),15470,21,1357.5
 1,2912301,Ibicuí (BA),16198,22,1358.2
 1,4317004,Santana da Boa Vista (RS),8098,11,1358.4
-1,2602100,Bom Conselho (PE),48554,66,1359.3
 1,2902807,Barra da Estiva (BA),20598,28,1359.4
 1,3302304,Laje do Muriaé (RJ),7355,10,1359.6
 1,4100509,Altônia (PR),22056,30,1360.2
@@ -1764,12 +1757,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2925808,Queimadas (BA),25439,35,1375.8
 1,3109907,Caetanópolis (MG),11624,16,1376.5
 1,1400605,São Luiz (RR),7986,11,1377.4
-1,2706505,Passo de Camaragibe (AL),15245,21,1377.5
 1,2802403,Gararu (SE),11604,16,1378.8
 1,4315149,Presidente Lucena (RS),2901,4,1378.8
 1,3127404,Gonçalves (MG),4350,6,1379.3
 1,4103453,Cafelândia (PR),18120,25,1379.7
 1,2204105,Francisco Ayres (PI),4348,6,1379.9
+1,2602100,Bom Conselho (PE),48554,67,1379.9
 1,3121407,Desterro de Entre Rios (MG),7243,10,1380.6
 1,3138500,Liberdade (MG),5069,7,1380.9
 1,2104057,Estreito (MA),41946,58,1382.7
@@ -1781,9 +1774,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2615201,Terra Nova (PE),10096,14,1386.7
 1,2209450,Santo Antônio dos Milagres (PI),2161,3,1388.2
 1,2610301,Paranatama (PE),11523,16,1388.5
+1,4124400,Santo Antônio do Sudoeste (PR),20166,28,1388.5
 1,1502855,Curuá (PA),14393,20,1389.6
 1,2608107,João Alfredo (PE),33822,47,1389.6
 1,2303303,Cariús (CE),18699,26,1390.4
+1,2310407,Paramoti (CE),12226,17,1390.5
 1,4200606,Águas Mornas (SC),6469,9,1391.3
 1,2104008,Esperantinópolis (MA),17241,24,1392.0
 1,2515930,Sertãozinho (PB),5024,7,1393.3
@@ -1823,7 +1818,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3150000,Pescador (MG),4252,6,1411.1
 1,1504406,Marapanim (PA),28336,40,1411.6
 1,4104501,Capanema (PR),19124,27,1411.8
-1,2308401,Missão Velha (CE),35393,50,1412.7
 1,2500809,Araçagi (PB),16987,24,1412.8
 1,2922003,Mucuri (BA),41748,59,1413.2
 1,3164001,São Pedro dos Ferros (MG),7781,11,1413.7
@@ -1868,7 +1862,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4306957,Entre Rios do Sul (RS),2792,4,1432.7
 1,4310579,Itapuca (RS),2094,3,1432.7
 1,2515203,São Sebastião do Umbuzeiro (PB),3489,5,1433.1
-1,4209508,Laurentino (SC),6970,10,1434.7
+1,3550506,São Pedro do Turvo (SP),7666,11,1434.9
 1,4212601,Peritiba (SC),2787,4,1435.2
 1,5005806,Nioaque (MS),13930,20,1435.8
 1,4314498,Pinheirinho do Vale (RS),4871,7,1437.1
@@ -1882,17 +1876,18 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2504074,Caraúbas (PB),4162,6,1441.6
 1,2504355,Caturité (PB),4852,7,1442.7
 1,4310553,Itacurubi (RS),3465,5,1443.0
+1,2706505,Passo de Camaragibe (AL),15245,22,1443.1
 1,1716307,Pau D'Arco (TO),4849,7,1443.6
 1,4303301,Caibaté (RS),4846,7,1444.5
 1,2911402,Glória (BA),15221,22,1445.4
 1,5004403,Inocência (MS),7610,11,1445.5
 1,3130804,Ingaí (MG),2767,4,1445.6
 1,3515301,Estrela do Norte (SP),2766,4,1446.1
+1,2505402,Desterro (PB),8297,12,1446.3
 1,2608503,Lagoa de Itaenga (PE),21429,31,1446.6
 1,4216800,São José do Cerrito (SC),8295,12,1446.7
 1,3102308,Alvinópolis (MG),15203,22,1447.1
 1,5220058,São João da Paraúna (GO),1381,2,1448.2
-1,2913200,Ibotirama (BA),26927,39,1448.4
 1,1200179,Capixaba (AC),11733,17,1448.9
 1,2514701,São José do Sabugi (PB),4141,6,1448.9
 1,3109303,Buritis (MG),24841,36,1449.2
@@ -1940,10 +1935,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1702554,Augustinópolis (TO),18412,27,1466.4
 1,2305654,Ipaporanga (CE),11593,17,1466.4
 1,3204005,Pancas (ES),23184,34,1466.5
-1,2305902,Ipueiras (CE),38166,56,1467.3
 1,2704500,Maragogi (AL),32704,48,1467.7
 1,4103107,Bocaiúva do Sul (PR),12944,19,1467.9
 1,3528908,Mariápolis (SP),4084,6,1469.1
+1,2308401,Missão Velha (CE),35393,52,1469.2
 1,3547601,Santa Rosa de Viterbo (SP),26540,39,1469.5
 1,4309704,Humaitá (RS),4762,7,1470.0
 1,2102903,Carutapera (MA),23807,35,1470.2
@@ -1969,7 +1964,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2100402,Altamira do Maranhão (MA),8128,12,1476.4
 1,2410900,Riachuelo (RN),8128,12,1476.4
 1,4205159,Doutor Pedrinho (SC),4064,6,1476.4
-1,2309458,Ocara (CE),25703,38,1478.4
 1,5220264,São Miguel do Passa Quatro (GO),4057,6,1478.9
 1,1200344,Manoel Urbano (AC),9459,14,1480.1
 1,5204201,Cachoeira de Goiás (GO),1351,2,1480.4
@@ -1983,6 +1977,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3510203,Capão Bonito (SP),47138,70,1485.0
 1,4112405,Japurá (PR),9425,14,1485.4
 1,2702801,Flexeiras (AL),12790,19,1485.5
+1,2913200,Ibotirama (BA),26927,40,1485.5
 1,4311791,Maratá (RS),2691,4,1486.4
 1,1504455,Medicilândia (PA),31597,47,1487.5
 1,4201257,Apiúna (SC),10743,16,1489.3
@@ -1993,6 +1988,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4128658,Virmond (PR),4023,6,1491.4
 1,1504307,Maracanã (PA),29473,44,1492.9
 1,2515005,São Miguel de Taipu (PB),7368,11,1492.9
+1,2305902,Ipueiras (CE),38166,57,1493.5
 1,4202081,Bandeirante (SC),2678,4,1493.7
 1,3515350,Euclides da Cunha Paulista (SP),9371,14,1494.0
 1,2709152,Teotônio Vilela (AL),44169,66,1494.3
@@ -2001,7 +1997,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2801108,Canhoba (SE),4008,6,1497.0
 1,3510302,Capela do Alto (SP),20706,31,1497.2
 1,4308003,Faxinal do Soturno (RS),6677,10,1497.7
-1,1720903,Taguatinga (TO),16683,25,1498.5
 1,3101201,Aiuruoca (MG),6003,9,1499.3
 1,4121802,Ribeirão Claro (PR),10668,16,1499.8
 1,3540754,Potim (SP),24643,37,1501.4
@@ -2034,8 +2029,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5003108,Corguinho (MS),5947,9,1513.4
 1,2110302,Santo Antônio dos Lopes (MA),14528,22,1514.3
 1,4113734,Luiziana (PR),7262,11,1514.7
-1,3204351,Rio Bananal (ES),19141,29,1515.1
 1,3146206,Ouro Verde de Minas (MG),5934,9,1516.7
+1,2309458,Ocara (CE),25703,39,1517.3
 1,1304401,Urucurituba (AM),23065,35,1517.5
 1,3507159,Bom Sucesso de Itararé (SP),3954,6,1517.5
 1,3165560,Sem-Peixe (MG),2633,4,1519.2
@@ -2044,23 +2039,21 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2108108,Paulo Ramos (MA),21040,32,1520.9
 1,2207553,Paquetá (PI),3945,6,1520.9
 1,2917102,Itororó (BA),20382,31,1520.9
+1,2407609,Messias Targino (RN),4601,7,1521.4
 1,2205557,Lagoa Alegre (PI),8542,13,1521.9
 1,4206108,Grão Pará (SC),6569,10,1522.3
 1,1501451,Belterra (PA),17732,27,1522.7
 1,2925402,Potiraguá (BA),7224,11,1522.7
-1,4122503,Roncador (PR),9849,15,1523.0
 1,4307401,Esmeralda (RS),3282,5,1523.5
 1,2804904,Pacatuba (SE),14428,22,1524.8
 1,2303808,Cedro (CE),25557,39,1526.0
 1,1302553,Manaquiri (AM),32105,49,1526.2
 1,2412203,São José de Mipibu (RN),43899,67,1526.2
-1,4316451,Salto do Jacuí (RS),12449,19,1526.2
 1,2505600,Diamante (PB),6552,10,1526.3
 1,2508307,Lagoa Seca (PB),27503,42,1527.1
 1,3204955,São Roque do Canaã (ES),12415,19,1530.4
 1,4218509,Treze Tílias (SC),7840,12,1530.6
 1,2613602,São José do Egito (PE),33951,52,1531.6
-1,3144607,Nepomuceno (MG),26769,41,1531.6
 1,2210904,Socorro do Piauí (PI),4569,7,1532.1
 1,4217550,Serra Alta (SC),3263,5,1532.3
 1,5103437,Curvelândia (MT),5219,8,1532.9
@@ -2097,16 +2090,15 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4314605,Piratini (RS),20663,32,1548.7
 1,4200754,Alto Bela Vista (SC),1937,3,1548.8
 1,4314456,Pinhal (RS),2579,4,1551.0
-1,1200708,Xapuri (AC),19323,30,1552.6
 1,2604403,Chã de Alegria (PE),13518,21,1553.5
 1,4218400,Treze de Maio (SC),7081,11,1553.5
 1,4303608,Cambará do Sul (RS),6431,10,1555.0
 1,2102358,Buritirana (MA),15430,24,1555.4
 1,3122009,Divino (MG),19931,31,1555.4
 1,2509339,Matinhas (PB),4500,7,1555.6
-1,1100700,Campo Novo de Rondônia (RO),14139,22,1556.0
 1,2407302,Marcelino Vieira (RN),8347,13,1557.4
 1,2500775,Aparecida (PB),8347,13,1557.4
+1,1720903,Taguatinga (TO),16683,26,1558.5
 1,2410405,Pureza (RN),9621,15,1559.1
 1,4318507,São José do Norte (RS),27568,43,1559.8
 1,2109452,Raposa (MA),30761,48,1560.4
@@ -2121,13 +2113,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1701309,Aragominas (TO),5758,9,1563.0
 1,2600708,Aliança (PE),38386,60,1563.1
 1,4120200,Porto Rico (PR),2559,4,1563.1
-1,2911907,Iaçu (BA),24305,38,1563.5
 1,2203859,Floresta do Piauí (PI),2558,4,1563.7
 1,2201408,Barro Duro (PI),7032,11,1564.3
 1,3125705,Felixlândia (MG),15336,24,1564.9
 1,4304358,Candiota (RS),9584,15,1565.1
 1,2931202,Taperoá (BA),21074,33,1565.9
 1,3550902,São Simão (SP),15322,24,1566.4
+1,3204351,Rio Bananal (ES),19141,30,1567.3
 1,3172202,Wenceslau Braz (MG),2552,4,1567.4
 1,4314423,Picada Café (RS),5742,9,1567.4
 1,2705200,Messias (AL),17856,28,1568.1
@@ -2141,7 +2133,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3529658,Mesópolis (SP),1908,3,1572.3
 1,2514305,São José de Caiana (PB),6359,10,1572.6
 1,4207601,Ipira (SC),4446,7,1574.4
-1,2916104,Itaparica (BA),22228,35,1574.6
 1,3202553,Ibitirama (ES),8889,14,1575.0
 1,3137106,Lagamar (MG),7613,12,1576.3
 1,4104451,Cantagalo (PR),13317,21,1576.9
@@ -2152,6 +2143,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4219200,Vidal Ramos (SC),6338,10,1577.8
 1,4125605,São Mateus do Sul (PR),46261,73,1578.0
 1,4109005,Guapirama (PR),3802,6,1578.1
+1,4209508,Laurentino (SC),6970,11,1578.2
+1,2511004,Pedra Branca (PB),3801,6,1578.5
 1,3125507,São Gonçalo do Rio Preto (MG),3167,5,1578.8
 1,2209500,Santo Inácio do Piauí (PI),3798,6,1579.8
 1,2505501,Vista Serrana (PB),3798,6,1579.8
@@ -2194,11 +2187,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2307205,Jati (CE),8111,13,1602.8
 1,4202859,Braço do Trombudo (SC),3743,6,1603.0
 1,3167400,Silvianópolis (MG),6238,10,1603.1
+1,1200708,Xapuri (AC),19323,31,1604.3
 1,4311502,Lavras do Sul (RS),7480,12,1604.3
 1,2600401,Água Preta (PE),36771,59,1604.5
+1,2911907,Iaçu (BA),24305,39,1604.6
 1,2305704,Ipaumirim (CE),12463,20,1604.8
 1,2305357,Icapuí (CE),19934,32,1605.3
-1,4318804,São Lourenço do Sul (RS),43582,70,1606.2
+1,3144607,Nepomuceno (MG),26769,43,1606.3
+1,4316451,Salto do Jacuí (RS),12449,20,1606.6
 1,3116902,Comendador Gomes (MG),3111,5,1607.2
 1,3548302,Santo Expedito (SP),3111,5,1607.2
 1,3125606,Felisburgo (MG),7457,12,1609.2
@@ -2212,7 +2208,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2614600,Tabira (PE),28534,46,1612.1
 1,4322533,Vale do Sol (RS),11781,19,1612.8
 1,3117702,Conceição do Rio Verde (MG),13638,22,1613.1
-1,2608800,Lajedo (PE),40288,65,1613.4
 1,2404705,Ipanguaçu (RN),15491,25,1613.8
 1,4305801,Constantina (RS),9911,16,1614.4
 1,3145109,Nova Resende (MG),16723,27,1614.5
@@ -2223,13 +2218,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3150505,Pimenta (MG),8660,14,1616.6
 1,3537156,Pedrinhas Paulista (SP),3093,5,1616.6
 1,2504900,Cruz do Espírito Santo (PB),17319,28,1616.7
-1,4107553,Farol (PR),3089,5,1618.6
 1,2915106,Itagi (BA),12351,20,1619.3
 1,4302220,Boa Vista do Cadeado (RS),2470,4,1619.4
 1,2202703,Cocal (PI),27787,45,1619.5
+1,2916104,Itaparica (BA),22228,36,1619.6
 1,4301651,Barão (RS),6171,10,1620.5
 1,5001508,Bandeirantes (MS),6788,11,1620.5
-1,2925105,Poções (BA),46871,76,1621.5
 1,5200209,Água Limpa (GO),1850,3,1621.6
 1,1711951,Lagoa do Tocantins (TO),4316,7,1621.9
 1,4306502,Dom Feliciano (RS),15414,25,1621.9
@@ -2244,10 +2238,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2912707,Ibirapitanga (BA),23375,38,1625.7
 1,2505709,Dona Inês (PB),10453,17,1626.3
 1,4318051,São Domingos do Sul (RS),3074,5,1626.5
+1,1100700,Campo Novo de Rondônia (RO),14139,23,1626.7
 1,3113602,Careaçu (MG),6757,11,1627.9
 1,3547700,Santo Anastácio (SP),20878,34,1628.5
 1,2313955,Varjota (CE),18420,30,1628.7
 1,2502805,Brejo do Cruz (PB),14122,23,1628.7
+1,4318804,São Lourenço do Sul (RS),43582,71,1629.1
 1,3203601,Mucurici (ES),5524,9,1629.3
 1,2413706,Sítio Novo (RN),5522,9,1629.8
 1,4202206,Benedito Novo (SC),11652,19,1630.6
@@ -2264,13 +2260,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1707405,Esperantina (TO),10996,18,1637.0
 1,2803401,Japoatã (SE),13434,22,1637.6
 1,3159308,Santa Rita de Jacutinga (MG),4884,8,1638.0
-1,2304459,Fortim (CE),16480,27,1638.3
 1,5003900,Figueirão (MS),3051,5,1638.8
 1,4302204,Boa Vista do Buricá (RS),6712,11,1638.9
 1,5005152,Juti (MS),6712,11,1638.9
 1,3203056,Jaguaré (ES),30477,50,1640.6
 1,3508306,Cabrália Paulista (SP),4264,7,1641.7
 1,4203501,Campo Erê (SC),8526,14,1642.0
+1,2925105,Poções (BA),46871,77,1642.8
 1,1716653,Pequizeiro (TO),5477,9,1643.2
 1,2921609,Morpará (BA),8519,14,1643.4
 1,4304655,Capão do Cipó (RS),3651,6,1643.4
@@ -2280,10 +2276,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2900900,Almadina (BA),5464,9,1647.1
 1,2922508,Nazaré (BA),28525,47,1647.7
 1,4209904,Lontras (SC),12130,20,1648.8
-1,2613503,São José do Belmonte (PE),33959,56,1649.0
 1,2701001,Boca da Mata (AL),27281,45,1649.5
 1,3152170,Ponto dos Volantes (MG),12121,20,1650.0
-1,2307502,Lavras da Mangabeira (CE),31508,52,1650.4
 1,2607752,Itapissuma (PE),26651,44,1651.0
 1,2925600,Presidente Dutra (BA),15142,25,1651.0
 1,2700201,Anadia (AL),17545,29,1652.9
@@ -2309,8 +2303,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5000807,Anaurilândia (MS),9035,15,1660.2
 1,2507101,Itapororoca (PB),18664,31,1661.0
 1,2503803,Caldas Brandão (PB),6014,10,1662.8
+1,2608800,Lajedo (PE),40288,67,1663.0
 1,3171402,Vieiras (MG),3608,6,1663.0
-1,4216701,São José do Cedro (SC),13829,23,1663.2
 1,2500700,São João do Rio do Peixe (PB),18034,30,1663.5
 1,5106802,Porto dos Gaúchos (MT),5410,9,1663.6
 1,4215505,Santa Cecília (SC),16830,28,1663.7
@@ -2354,6 +2348,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3164472,São Sebastião do Anta (MG),6555,11,1678.1
 1,2929909,Seabra (BA),44091,74,1678.3
 1,2801702,Cristinápolis (SE),17874,30,1678.4
+1,2613503,São José do Belmonte (PE),33959,57,1678.5
 1,1301654,Guajará (AM),16678,28,1678.9
 1,1303908,São Paulo de Olivença (AM),39299,66,1679.4
 1,3130408,Ijaci (MG),6550,11,1679.4
@@ -2363,6 +2358,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3165578,Senador Amaral (MG),5356,9,1680.4
 1,3157401,Santa Cruz do Escalvado (MG),4758,8,1681.4
 1,1300839,Caapiranga (AM),13081,22,1681.8
+1,2307502,Lavras da Mangabeira (CE),31508,53,1682.1
 1,3118502,Consolação (MG),1783,3,1682.6
 1,2201101,Avelino Lopes (PI),11289,19,1683.1
 1,2702009,Coité do Nóia (AL),10693,18,1683.3
@@ -2400,11 +2396,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1718808,Sampaio (TO),4711,8,1698.2
 1,4305207,Cerro Largo (RS),14133,24,1698.2
 1,2704005,Junqueiro (AL),24727,42,1698.5
+1,2304459,Fortim (CE),16480,28,1699.0
 1,4313805,Palmitinho (RS),7057,12,1700.4
 1,2412500,São Miguel (RN),23519,40,1700.8
 1,3502408,Anhumas (SP),4115,7,1701.1
 1,3547106,Santa Mercedes (SP),2939,5,1701.3
-1,2932309,Ubatã (BA),27035,46,1701.5
 1,1716604,Peixe (TO),11749,20,1702.3
 1,2504603,Conde (PB),24670,42,1702.5
 1,1506161,Rio Maria (PA),18193,31,1704.0
@@ -2450,7 +2446,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3112901,Caputira (MG),9298,16,1720.8
 1,1101104,Itapuã do Oeste (RO),10458,18,1721.2
 1,3501400,Álvaro de Carvalho (SP),5227,9,1721.8
-1,2913903,Ipiaú (BA),45873,79,1722.1
 1,3521101,Ipeúna (SP),7546,13,1722.8
 1,5107297,São José do Povo (MT),4063,7,1722.9
 1,1721109,Tocantínia (TO),7545,13,1723.0
@@ -2458,6 +2453,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1600501,Oiapoque (AP),27270,47,1723.5
 1,4309506,Guarani das Missões (RS),7537,13,1724.8
 1,2910206,Dom Macedo Costa (BA),4058,7,1725.0
+1,4122503,Roncador (PR),9849,17,1726.1
 1,3512704,Corumbataí (SP),4055,7,1726.3
 1,2310100,Palmácia (CE),13322,23,1726.5
 1,3527702,Luiziânia (SP),5790,10,1727.1
@@ -2473,10 +2469,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4305850,Coqueiros do Sul (RS),2306,4,1734.6
 1,4317251,Santa Tereza (RS),1729,3,1735.1
 1,3156205,Rochedo de Minas (MG),2305,4,1735.4
+1,4216701,São José do Cedro (SC),13829,24,1735.5
 1,1507474,São João de Pirabas (PA),23045,40,1735.7
 1,1302405,Lábrea (AM),46069,80,1736.5
 1,5103254,Colniza (MT),38582,67,1736.6
 1,2912806,Ibirapuã (BA),8637,15,1736.7
+1,2932309,Ubatã (BA),27035,47,1738.5
 1,1717800,Ponte Alta do Bom Jesus (TO),4596,8,1740.6
 1,3511904,Clementina (SP),8617,15,1740.7
 1,1717909,Ponte Alta do Tocantins (TO),8039,14,1741.5
@@ -2487,6 +2485,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4120853,Quatro Pontes (PR),4015,7,1743.5
 1,2314003,Várzea Alegre (CE),40721,71,1743.6
 1,5200175,Água Fria de Goiás (GO),5735,10,1743.7
+1,2913903,Ipiaú (BA),45873,80,1743.9
 1,3161650,São Geraldo do Baixio (MG),4012,7,1744.8
 1,3527801,Lupércio (SP),4584,8,1745.2
 1,4322327,Turuçu (RS),3438,6,1745.2
@@ -2498,7 +2497,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2608206,Joaquim Nabuco (PE),16023,28,1747.5
 1,4110656,Iracema do Oeste (PR),2288,4,1748.3
 1,4101309,Antônio Olinto (PR),7434,13,1748.7
-1,1710508,Itacajá (TO),7433,13,1749.0
 1,2104552,Governador Edison Lobão (MA),18296,32,1749.0
 1,4214102,Presidente Nereu (SC),2287,4,1749.0
 1,4114005,Mamborê (PR),13132,23,1751.4
@@ -2531,7 +2529,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2931103,Tanquinho (BA),7918,14,1768.1
 1,2806008,Ribeirópolis (SE),18652,33,1769.2
 1,2805109,Pedrinhas (SE),9602,17,1770.5
-1,4107736,Fernandes Pinheiro (PR),5646,10,1771.2
 1,4109906,Icaraíma (PR),7904,14,1771.3
 1,4312153,Mato Leitão (RS),4515,8,1771.9
 1,2202251,Canavieira (PI),3950,7,1772.2
@@ -2546,7 +2543,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2307635,Madalena (CE),19691,35,1777.5
 1,3202009,Dores do Rio Preto (ES),6749,12,1778.0
 1,5205513,Cocalzinho de Goiás (GO),20240,36,1778.7
-1,4110508,Ipiranga (PR),15172,27,1779.6
 1,2306108,Irauçuba (CE),24156,43,1780.1
 1,2910909,Firmino Alves (BA),5617,10,1780.3
 1,2405405,Japi (RN),5055,9,1780.4
@@ -2607,7 +2603,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2515906,Serraria (PB),6099,11,1803.6
 1,1706506,Darcinópolis (TO),6097,11,1804.2
 1,4305124,Cerrito (RS),6091,11,1805.9
-1,4202602,Bom Retiro (SC),9966,18,1806.1
 1,4314308,Pejuçara (RS),3874,7,1806.9
 1,5106182,Nova Lacerda (MT),6640,12,1807.2
 1,2113009,Vitorino Freire (MA),31523,57,1808.2
@@ -2621,11 +2616,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3119104,Corinto (MG),23731,43,1812.0
 1,3144375,Natalândia (MG),3311,6,1812.1
 1,3155702,Rio Piracicaba (MG),14339,26,1813.2
-1,3551603,Serra Negra (SP),29229,53,1813.3
 1,3140407,Marmelópolis (MG),2755,5,1814.9
 1,3150802,Piranga (MG),17626,32,1815.5
 1,3117603,Conceição do Pará (MG),5507,10,1815.9
-1,4323507,Vista Alegre (RS),2752,5,1816.9
 1,3523602,Itirapina (SP),18157,33,1817.5
 1,5007505,Rochedo (MS),5499,10,1818.5
 1,2210508,São Pedro do Piauí (PI),14291,26,1819.3
@@ -2651,8 +2644,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3155207,Rio Espera (MG),5474,10,1826.8
 1,1503200,Igarapé-Açu (PA),38807,71,1829.6
 1,4316733,Santa Cecília do Sul (RS),1639,3,1830.4
-1,2403103,Currais Novos (RN),44786,82,1830.9
-1,2613404,São José da Coroa Grande (PE),21298,39,1831.2
 1,2610509,Passira (PE),28933,53,1831.8
 1,2910859,Filadélfia (BA),16377,30,1831.8
 1,2901106,Amélia Rodrigues (BA),25102,46,1832.5
@@ -2672,9 +2663,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4304689,Capela de Santana (RS),11940,22,1842.5
 1,3548005,Santo Antônio de Posse (SP),23310,43,1844.7
 1,2200459,Alvorada do Gurguéia (PI),5419,10,1845.4
+1,4110508,Ipiranga (PR),15172,28,1845.5
 1,3205150,Vila Pavão (ES),9208,17,1846.2
 1,2807501,Tomar do Geru (SE),13536,25,1846.9
 1,3528106,Macaubal (SP),8120,15,1847.3
+1,3551603,Serra Negra (SP),29229,54,1847.5
 1,2304509,Frecheirinha (CE),14072,26,1847.6
 1,2310852,Pindoretama (CE),20567,38,1847.6
 1,4202156,Belmonte (SC),2706,5,1847.7
@@ -2685,12 +2678,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4206504,Guaramirim (SC),44819,83,1851.9
 1,3553302,Tambaú (SP),23207,43,1852.9
 1,4313011,Nova Candelária (RS),2698,5,1853.2
+1,2403103,Currais Novos (RN),44786,83,1853.3
 1,5007703,Sete Quedas (MS),10791,20,1853.4
 1,5000856,Angélica (MS),10780,20,1855.3
 1,2405702,Jardim do Seridó (RN),12396,23,1855.4
-1,4107504,Engenheiro Beltrão (PR),14000,26,1857.1
 1,2402501,Carnaubais (RN),10759,20,1858.9
-1,2302909,Capistrano (CE),17738,33,1860.4
 1,2805901,Riachuelo (SE),10213,19,1860.4
 1,3131604,Iraí de Minas (MG),6987,13,1860.6
 1,3200201,Alegre (ES),30084,56,1861.5
@@ -2698,12 +2690,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3141603,Mercês (MG),10739,20,1862.4
 1,5007307,Rio Negro (MS),4831,9,1863.0
 1,3153608,Prudente de Morais (MG),10733,20,1863.4
-1,2502102,Boa Ventura (PB),5366,10,1863.6
 1,5209150,Gouvelândia (GO),5898,11,1865.0
 1,2504306,Catolé do Rocha (PB),30546,57,1866.0
-1,1100452,Buritis (RO),39654,74,1866.1
 1,3138807,Luz (MG),18215,34,1866.6
-1,2708006,Santana do Ipanema (AL),47654,89,1867.6
 1,2509206,Massaranduba (PB),13918,26,1868.1
 1,4313037,Nova Esperança do Sul (RS),5352,10,1868.5
 1,3546256,Santa Cruz da Esperança (SP),2139,4,1870.0
@@ -2713,7 +2702,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3118205,Conquista (MG),6939,13,1873.5
 1,4201273,Arabutã (SC),4267,8,1874.9
 1,4318606,São José do Ouro (RS),6933,13,1875.1
-1,2300150,Acarape (CE),14929,28,1875.5
 1,4218202,Timbó (SC),44238,83,1876.2
 1,3105202,Bandeira (MG),4795,9,1877.0
 1,2509107,Mari (PB),21837,41,1877.5
@@ -2722,6 +2710,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2802700,Ilha das Flores (SE),8520,16,1877.9
 1,2300507,Alcântaras (CE),11714,22,1878.1
 1,2400802,Angicos (RN),11714,22,1878.1
+1,2613404,São José da Coroa Grande (PE),21298,40,1878.1
 1,4124905,São João do Caiuá (PR),5855,11,1878.7
 1,2408409,Olho d'Água do Borges (RN),4258,8,1878.8
 1,2501153,Areia de Baraúnas (PB),2128,4,1879.7
@@ -2734,6 +2723,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3152709,Prados (MG),9031,17,1882.4
 1,4119103,Piên (PR),12746,24,1882.9
 1,4121356,Rancho Alegre D'Oeste (PR),2655,5,1883.2
+1,1710508,Itacajá (TO),7433,14,1883.5
 1,1507102,São Caetano de Odivelas (PA),18050,34,1883.7
 1,3168408,Tarumirim (MG),14326,27,1884.7
 1,4104709,Carlópolis (PR),14320,27,1885.5
@@ -2741,15 +2731,15 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2210300,São Julião (PI),6363,12,1885.9
 1,3155306,Rio Manso (MG),5832,11,1886.1
 1,3168507,Teixeiras (MG),11661,22,1886.6
-1,2309300,Nova Russas (CE),32328,61,1886.9
 1,2607802,Itaquitinga (PE),16955,32,1887.3
 1,2512507,Queimadas (PB),43967,83,1887.8
-1,4127403,Terra Roxa (PR),17481,33,1887.8
+1,2708006,Santana do Ipanema (AL),47654,90,1888.6
 1,4217253,São Pedro de Alcântara (SC),5823,11,1889.1
 1,3119906,Córrego do Bom Jesus (MG),3704,7,1889.8
 1,3517208,Guaiçara (SP),12168,23,1890.2
 1,2406809,Lajes Pintadas (RN),4759,9,1891.2
 1,4312807,Nova Araçá (RS),4759,9,1891.2
+1,1100452,Buritis (RO),39654,75,1891.4
 1,3505104,Barbosa (SP),7402,14,1891.4
 1,3532058,Motuca (SP),4758,9,1891.6
 1,5004502,Itaporã (MS),24839,47,1892.2
@@ -2774,6 +2764,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5005681,Mundo Novo (MS),18366,35,1905.7
 1,3147204,Paraguaçu (MG),21513,41,1905.8
 1,3544509,Rubinéia (SP),3148,6,1906.0
+1,4202602,Bom Retiro (SC),9966,19,1906.5
 1,2208908,Ribeiro Gonçalves (PI),7341,14,1907.1
 1,2301802,Baixio (CE),6288,12,1908.4
 1,2313005,Solonópole (CE),18324,35,1910.1
@@ -2789,6 +2780,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3101904,Alpinópolis (MG),19853,38,1914.1
 1,3540507,Porangaba (SP),9925,19,1914.4
 1,3514304,Dourado (SP),8873,17,1915.9
+1,2302909,Capistrano (CE),17738,34,1916.8
 1,3530201,Mirante do Paranapanema (SP),18259,35,1916.9
 1,3514924,Elisiário (SP),3651,7,1917.3
 1,4109658,Honório Serpa (PR),5211,10,1919.0
@@ -2806,6 +2798,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5217302,Pirenópolis (GO),24908,48,1927.1
 1,1504752,Mojuí dos Campos (PA),16084,31,1927.4
 1,5215009,Nova Veneza (GO),9853,19,1928.3
+1,4107504,Engenheiro Beltrão (PR),14000,27,1928.6
 1,3200102,Afonso Cláudio (ES),30586,59,1929.0
 1,5101902,Brasnorte (MT),19695,38,1929.4
 1,3513306,Cruzália (SP),2073,4,1929.6
@@ -2822,7 +2815,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5002308,Brasilândia (MS),11872,23,1937.3
 1,3124500,Estiva (MG),11354,22,1937.6
 1,4320701,Sobradinho (RS),14967,29,1937.6
-1,4302303,Bom Jesus (RS),11349,22,1938.5
 1,4127882,Tunas do Paraná (PR),8769,17,1938.6
 1,2513901,São Bento (PB),34031,66,1939.4
 1,1506104,Primavera (PA),10825,21,1940.0
@@ -2831,11 +2823,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3161502,São Geraldo (MG),12366,24,1940.8
 1,3159357,Santa Rita de Minas (MG),7212,14,1941.2
 1,2311504,Quixeré (CE),22149,43,1941.4
+1,4107553,Farol (PR),3089,6,1942.4
+1,2300150,Acarape (CE),14929,29,1942.5
 1,1301001,Carauari (AM),28294,55,1943.9
 1,2503605,Caiçara (PB),7201,14,1944.2
 1,4313300,Nova Prata (RS),27257,53,1944.5
 1,4114351,Manfrinópolis (PR),2571,5,1944.8
 1,4312427,Mormaço (RS),3085,6,1944.9
+1,4127403,Terra Roxa (PR),17481,34,1945.0
 1,2906709,Cândido Sales (BA),25189,49,1945.3
 1,5200100,Abadiânia (GO),20042,39,1945.9
 1,2513356,Santa Inês (PB),3595,7,1947.1
@@ -2890,7 +2885,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3514908,Elias Fausto (SP),17772,35,1969.4
 1,4312005,Mariano Moro (RS),2031,4,1969.5
 1,4314027,Paraíso do Sul (RS),7611,15,1970.8
-1,2207009,Oeiras (PI),37029,73,1971.4
 1,3156304,Rodeiro (MG),8109,16,1973.1
 1,4306429,Dois Irmãos das Missões (RS),2026,4,1974.3
 1,2105153,Igarapé do Meio (MA),14177,28,1975.0
@@ -2936,7 +2930,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2201200,Barras (PI),47066,94,1997.2
 1,3146750,Palmópolis (MG),5507,11,1997.5
 1,3143203,Monte Santo de Minas (MG),21524,43,1997.8
-1,1200807,Porto Acre (AC),18504,37,1999.6
+1,2207009,Oeiras (PI),37029,74,1998.4
 1,2201705,Bertolínia (PI),5501,11,1999.6
 1,4114500,Manoel Ribas (PR),13502,27,1999.7
 1,4320404,Serafina Corrêa (RS),17502,35,1999.8
@@ -2974,7 +2968,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3205069,Venda Nova do Imigrante (ES),25277,51,2017.6
 1,2313757,Umirim (CE),19825,40,2017.7
 1,1101401,Monte Negro (RO),15852,32,2018.7
-1,4201307,Araquari (SC),38129,77,2019.5
 1,2509800,Mulungu (PB),9902,20,2019.8
 1,3109006,Brumadinho (MG),40103,81,2019.8
 1,3138708,Luminárias (MG),5446,11,2019.8
@@ -2984,9 +2977,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2918902,Lajedão (BA),3955,8,2022.8
 1,2805505,Poço Verde (SE),23728,48,2022.9
 1,1300607,Benjamin Constant (AM),42984,87,2024.0
+1,4302303,Bom Jesus (RS),11349,23,2026.6
 1,4319109,São Martinho (RS),5426,11,2027.3
 1,4322541,Vale Real (RS),5913,12,2029.4
-1,5002001,Batayporã (MS),11329,23,2030.2
 1,3554300,Teodoro Sampaio (SP),23148,47,2030.4
 1,5007109,Ribas do Rio Pardo (MS),24615,50,2031.3
 1,5002159,Bodoquena (MS),7875,16,2031.7
@@ -3014,7 +3007,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3149606,Pequi (MG),4406,9,2042.7
 1,3201704,Conceição do Castelo (ES),12723,26,2043.5
 1,4206751,Ibiam (SC),1957,4,2043.9
-1,4211603,Nova Veneza (SC),15166,31,2044.0
 1,2806503,Santa Rosa de Lima (SE),3913,8,2044.5
 1,4207106,Ilhota (SC),14184,29,2044.6
 1,2202539,Caraúbas do Piauí (PI),5868,12,2045.0
@@ -3022,13 +3014,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3536307,Patrocínio Paulista (SP),14670,30,2045.0
 1,1508084,Tucumã (PA),39602,81,2045.4
 1,3160108,Santo Antônio do Grama (MG),3911,8,2045.5
-1,3202256,Governador Lindenberg (ES),12709,26,2045.8
+1,4201307,Araquari (SC),38129,78,2045.7
 1,2932200,Ubaitaba (BA),19056,39,2046.6
 1,2509701,Monteiro (PB),33222,68,2046.8
 1,2110906,São Francisco do Maranhão (MA),12210,25,2047.5
 1,3507902,Brotas (SP),24403,50,2048.9
 1,4308201,Flores da Cunha (RS),30745,63,2049.1
 1,4101150,Ângulo (PR),2928,6,2049.2
+1,2502102,Boa Ventura (PB),5366,11,2049.9
 1,2807105,Simão Dias (SE),40484,83,2050.2
 1,4213351,Ponte Alta do Norte (SC),3414,7,2050.4
 1,2301950,Barreira (CE),22425,46,2051.3
@@ -3037,6 +3030,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1101757,Vale do Anari (RO),11204,23,2052.8
 1,2512788,Riacho de Santo Antônio (PB),1948,4,2053.4
 1,4316956,Santa Maria do Herval (RS),6331,13,2053.4
+1,1200807,Porto Acre (AC),18504,38,2053.6
 1,3104809,Augusto de Lima (MG),4869,10,2053.8
 1,2611533,Quixaba (PE),6813,14,2054.9
 1,2210953,Tamboril do Piauí (PI),2919,6,2055.5
@@ -3046,12 +3040,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2806404,Santana do São Francisco (SE),7780,16,2056.6
 1,3519204,Iacri (SP),6321,13,2056.6
 1,3515905,Floreal (SP),2917,6,2056.9
-1,4113304,Laranjeiras do Sul (PR),32073,66,2057.8
 1,1706100,Cristalândia (TO),7289,15,2057.9
 1,3533254,Novais (SP),5830,12,2058.3
 1,3550001,São Luiz do Paraitinga (SP),10687,22,2058.6
-1,5213004,Maurilândia (GO),14080,29,2059.7
-1,5005400,Maracaju (MS),47083,97,2060.2
 1,4214003,Presidente Getúlio (SC),17471,36,2060.6
 1,4105003,Catanduvas (PR),10189,21,2061.0
 1,3304755,São Francisco de Itabapoana (RJ),42205,87,2061.4
@@ -3064,7 +3055,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4302352,Bom Princípio (RS),14055,29,2063.3
 1,3301207,Carmo (RJ),18895,39,2064.0
 1,4319802,São Vicente do Sul (RS),8721,18,2064.0
-1,2403608,Extremoz (RN),28583,59,2064.2
 1,3203403,Mimoso do Sul (ES),26153,54,2064.8
 1,4323408,Vila Maria (RS),4358,9,2065.2
 1,2207355,Pajeú do Piauí (PI),3389,7,2065.5
@@ -3088,7 +3078,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5106174,Nova Nazaré (MT),3849,8,2078.5
 1,3525854,Jumirim (SP),3367,7,2079.0
 1,5007208,Rio Brilhante (MS),37514,78,2079.2
-1,5107750,Salto do Céu (MT),3365,7,2080.2
+1,5005400,Maracaju (MS),47083,98,2081.4
 1,4318481,São José do Hortêncio (RS),4804,10,2081.6
 1,4315156,Progresso (RS),6244,13,2082.0
 1,2504850,Coxixola (PB),1921,4,2082.2
@@ -3103,7 +3093,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1707553,Fátima (TO),3835,8,2086.0
 1,3522000,Itaju (SP),3835,8,2086.0
 1,2203701,Esperantina (PI),39737,83,2088.7
-1,2308609,Monsenhor Tabosa (CE),17234,36,2088.9
 1,1101559,Teixeirópolis (RO),4308,9,2089.1
 1,3514502,Duartina (SP),12445,26,2089.2
 1,5106208,Nova Brasilândia (MT),3829,8,2089.3
@@ -3136,6 +3125,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4106308,Corbélia (PR),17071,36,2108.8
 1,4117297,Novo Itacolomi (PR),2844,6,2109.7
 1,5211602,Ivolândia (GO),2370,5,2109.7
+1,4211603,Nova Veneza (SC),15166,32,2110.0
 1,5212204,Jussara (GO),18478,39,2110.6
 1,3155504,Rio Paranaíba (MG),12313,26,2111.6
 1,3534906,Pacaembu (SP),14197,30,2113.1
@@ -3147,26 +3137,30 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3506409,Bilac (SP),8034,17,2116.0
 1,2205508,José de Freitas (PI),39208,83,2116.9
 1,2304004,Coreaú (CE),23136,49,2117.9
+1,5002001,Batayporã (MS),11329,24,2118.5
 1,4127965,Turvo (PR),13215,28,2118.8
 1,3169208,Tombos (MG),8022,17,2119.2
 1,4211892,Painel (SC),2359,5,2119.5
+1,4113304,Laranjeiras do Sul (PR),32073,68,2120.2
 1,4306056,Cristal (RS),8009,17,2122.6
 1,3155405,Rio Novo (MG),8949,19,2123.1
 1,2514503,São José de Piranhas (PB),20251,43,2123.4
 1,5204300,Caçu (GO),16009,34,2123.8
+1,3202256,Governador Lindenberg (ES),12709,27,2124.5
 1,4105300,Céu Azul (PR),11765,25,2124.9
+1,4107736,Fernandes Pinheiro (PR),5646,12,2125.4
 1,5214705,Nova América (GO),2352,5,2125.9
 1,3160959,São Domingos das Dores (MG),5644,12,2126.2
 1,4112900,Jundiaí do Sul (PR),3292,7,2126.4
 1,1101484,São Felipe D'Oeste (RO),5172,11,2126.8
 1,3164308,São Roque de Minas (MG),7051,15,2127.4
-1,3300902,Cambuci (RJ),15505,33,2128.3
 1,2308351,Milhã (CE),13155,28,2128.5
 1,3131109,Inimutaba (MG),7515,16,2129.1
 1,4103602,Cambará (PR),25360,54,2129.3
 1,3168804,Tiradentes (MG),7981,17,2130.1
 1,3525201,Jarinu (SP),30044,64,2130.2
 1,3527009,Lindóia (SP),7980,17,2130.3
+1,5213004,Maurilândia (GO),14080,30,2130.7
 1,1100098,Espigão D'Oeste (RO),32374,69,2131.3
 1,3116605,Cláudio (MG),28617,61,2131.6
 1,4206603,Guarujá do Sul (SC),5160,11,2131.8
@@ -3174,6 +3168,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4104105,Campo do Tenente (PR),7971,17,2132.7
 1,1704600,Chapada de Areia (TO),1406,3,2133.7
 1,1707306,Dueré (TO),4686,10,2134.0
+1,2403608,Extremoz (RN),28583,61,2134.1
+1,2309300,Nova Russas (CE),32328,69,2134.4
 1,2502508,Boqueirão (PB),17804,38,2134.4
 1,3204708,São Gabriel da Palha (ES),37947,81,2134.6
 1,5108857,Nova Marilândia (MT),3278,7,2135.4
@@ -3185,6 +3181,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4203907,Capinzal (SC),22848,49,2144.6
 1,3106002,Bela Vista de Minas (MG),10255,22,2145.3
 1,2805000,Pedra Mole (SE),3261,7,2146.6
+1,2308609,Monsenhor Tabosa (CE),17234,37,2146.9
 1,3544301,Roseira (SP),10712,23,2147.1
 1,4311627,Lindolfo Collor (RS),6054,13,2147.3
 1,2302305,Bela Cruz (CE),32591,70,2147.8
@@ -3213,7 +3210,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3127909,Grupiara (MG),1388,3,2161.4
 1,3516507,Gabriel Monteiro (SP),2776,6,2161.4
 1,4125308,São Jorge do Ivaí (PR),5551,12,2161.8
-1,5106505,Poconé (MT),32843,71,2161.8
 1,3526209,Juquitiba (SP),31444,68,2162.6
 1,3122405,Divisa Nova (MG),6011,13,2162.7
 1,4320677,Sinimbu (RS),10172,22,2162.8
@@ -3243,8 +3239,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3202900,Itarana (ES),10555,23,2179.1
 1,5108956,Nova Monte Verde (MT),9178,20,2179.1
 1,4116950,Nova Esperança do Sudoeste (PR),5046,11,2179.9
+1,4323507,Vista Alegre (RS),2752,6,2180.2
 1,3107901,Bom Repouso (MG),10547,23,2180.7
-1,2919926,Madre de Deus (BA),21093,46,2180.8
 1,4108601,Goioerê (PR),28884,63,2181.1
 1,1300409,Barcelos (AM),27502,60,2181.7
 1,2109551,Ribamar Fiquene (MA),7791,17,2182.0
@@ -3266,6 +3262,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2914653,Itabela (BA),30584,67,2190.7
 1,2308203,Meruoca (CE),15057,33,2191.7
 1,4100806,Alvorada do Sul (PR),11406,25,2191.8
+1,5106505,Poconé (MT),32843,72,2192.2
+1,3300902,Cambuci (RJ),15505,34,2192.8
 1,2308005,Massapê (CE),38737,85,2194.3
 1,4315800,Roca Sales (RS),11393,25,2194.3
 1,5003504,Douradina (MS),5924,13,2194.5
@@ -3322,12 +3320,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2512309,Princesa Isabel (PB),23345,52,2227.5
 1,1504059,Mãe do Rio (PA),30077,67,2227.6
 1,2204659,Ilha Grande (PI),9426,21,2227.9
+1,2919926,Madre de Deus (BA),21093,47,2228.2
 1,4120903,Quedas do Iguaçu (PR),34103,76,2228.5
 1,5211305,Itarumã (GO),7178,16,2229.0
 1,2310258,Paraipaba (CE),32744,73,2229.4
 1,3514601,Dumont (SP),9868,22,2229.4
 1,2504207,Catingueira (PB),4932,11,2230.3
-1,5101704,Barra do Bugres (MT),34966,78,2230.7
 1,5201801,Aragoiânia (GO),10308,23,2231.3
 1,3508207,Buritizal (SP),4481,10,2231.6
 1,4107801,Floraí (PR),4929,11,2231.7
@@ -3339,7 +3337,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3204401,Rio Novo do Sul (ES),11622,26,2237.1
 1,2918308,Jitaúna (BA),11166,25,2238.9
 1,4200408,Água Doce (SC),7145,16,2239.3
-1,4205456,Forquilhinha (SC),26793,60,2239.4
 1,2313906,Uruoca (CE),13840,31,2239.9
 1,1100403,Alto Paraíso (RO),21428,48,2240.1
 1,2203305,Demerval Lobão (PI),13817,31,2243.6
@@ -3372,6 +3369,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3554607,Timburi (SP),2658,6,2257.3
 1,4116307,Munhoz de Melo (PR),3984,9,2259.0
 1,2605400,Feira Nova (PE),22131,50,2259.3
+1,5101704,Barra do Bugres (MT),34966,79,2259.3
 1,3203353,Marilândia (ES),12833,29,2259.8
 1,4123956,Santa Mônica (PR),3981,9,2260.7
 1,4120408,Presidente Castelo Branco (PR),5306,12,2261.6
@@ -3389,11 +3387,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3157500,Santa Efigênia de Minas (MG),4409,10,2268.1
 1,5105176,Juruena (MT),15865,36,2269.1
 1,3523503,Itatinga (SP),20697,47,2270.9
-1,2308104,Mauriti (CE),47962,109,2272.6
 1,5106315,Novo Santo Antônio (MT),2640,6,2272.7
 1,3539400,Piratininga (SP),13636,31,2273.4
 1,3170750,Varjão de Minas (MG),7036,16,2274.0
 1,2607703,Itapetim (PE),13616,31,2276.7
+1,4205456,Forquilhinha (SC),26793,61,2276.7
 1,2202406,Capitão de Campos (PI),11417,26,2277.3
 1,4212205,Papanduva (SC),19320,44,2277.4
 1,1303569,Rio Preto da Eva (AM),33347,76,2279.1
@@ -3417,7 +3415,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3204500,Santa Leopoldina (ES),12224,28,2290.6
 1,3204054,Pedro Canário (ES),26184,60,2291.5
 1,3536703,Pederneiras (SP),46687,107,2291.9
-1,4105607,Cidade Gaúcha (PR),12652,29,2292.1
+1,2308104,Mauriti (CE),47962,110,2293.5
 1,1100908,Castanheiras (RO),3052,7,2293.6
 1,3523305,Itariri (SP),17436,40,2294.1
 1,3300159,Aperibé (RJ),11759,27,2296.1
@@ -3431,7 +3429,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1400407,Normandia (RR),11290,26,2302.9
 1,4204905,Descanso (SC),8250,19,2303.0
 1,4211207,Morro da Fumaça (SC),17796,41,2303.9
-1,4314779,Pontão (RS),3904,9,2305.3
 1,3519105,Iacanga (SP),11710,27,2305.7
 1,3505005,Barão de Antonina (SP),3469,8,2306.1
 1,5207600,Fazenda Nova (GO),5637,13,2306.2
@@ -3474,7 +3471,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3536109,Pardinho (SP),6435,15,2331.0
 1,4304614,Canudos do Vale (RS),1716,4,2331.0
 1,4105904,Colorado (PR),24012,56,2332.2
-1,3506300,Bernardino de Campos (SP),11148,26,2332.3
 1,4215604,Santa Rosa de Lima (SC),2142,5,2334.3
 1,2313559,Tururu (CE),16271,38,2335.4
 1,2802007,Divina Pastora (SE),5138,12,2335.5
@@ -3515,9 +3511,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2516300,Sumé (PB),16966,40,2357.7
 1,3162005,São Gonçalo do Sapucaí (MG),25449,60,2357.7
 1,3164407,São Sebastião da Bela Vista (MG),5504,13,2361.9
-1,4107900,Floresta (PR),6774,16,2362.0
 1,4107207,Dois Vizinhos (PR),40641,96,2362.1
-1,4207304,Imbituba (SC),44853,106,2363.3
 1,4126272,Saudade do Iguaçu (PR),5500,13,2363.6
 1,4126678,Tamarana (PR),14797,35,2365.3
 1,3532868,Nova Castilho (SP),1267,3,2367.8
@@ -3526,7 +3520,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1303809,São Gabriel da Cachoeira (AM),45564,108,2370.3
 1,1718840,Sandolândia (TO),3375,8,2370.4
 1,3133303,Itaobim (MG),21062,50,2373.9
-1,4125753,São Pedro do Iguaçu (PR),5897,14,2374.1
 1,4321709,Três Coroas (RS),28220,67,2374.2
 1,2516706,Teixeira (PB),15161,36,2374.5
 1,2506806,Ingá (PB),18103,43,2375.3
@@ -3535,6 +3528,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3114501,Carmópolis de Minas (MG),19355,46,2376.6
 1,3554508,Tietê (SP),42076,100,2376.7
 1,4317806,Santo Augusto (RS),13885,33,2376.7
+1,5107750,Salto do Céu (MT),3365,8,2377.4
 1,1700707,Alvorada (TO),8412,20,2377.6
 1,4112751,Jesuítas (PR),8412,20,2377.6
 1,5104906,Jangada (MT),8409,20,2378.4
@@ -3547,6 +3541,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4112504,Jardim Alegre (PR),11328,27,2383.5
 1,3153905,Raposos (MG),16354,39,2384.7
 1,2911501,Gongogi (BA),7128,17,2385.0
+1,4207304,Imbituba (SC),44853,107,2385.6
 1,4200309,Agronômica (SC),5448,13,2386.2
 1,4116703,Nova Aurora (PR),10472,25,2387.3
 1,5214879,Nova Iguaçu de Goiás (GO),2929,7,2389.9
@@ -3569,7 +3564,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1300300,Autazes (AM),39565,95,2401.1
 1,5105101,Juara (MT),34974,84,2401.8
 1,3132800,Itambé do Mato Dentro (MG),2081,5,2402.7
-1,5215207,Novo Brasil (GO),2913,7,2403.0
 1,2307908,Martinópole (CE),11233,27,2403.6
 1,3522158,Itaoca (SP),3328,8,2403.8
 1,2801504,Carmópolis (SE),16634,40,2404.7
@@ -3577,7 +3571,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5214408,Nazário (GO),9142,22,2406.5
 1,4108502,General Carneiro (PR),13710,33,2407.0
 1,5105309,Luciara (MT),2077,5,2407.3
-1,2512101,Pombal (PB),32801,79,2408.5
 1,2515500,Serra Branca (PB),13699,33,2408.9
 1,1704105,Centenário (TO),2905,7,2409.6
 1,5212055,Jesúpolis (GO),2490,6,2409.6
@@ -3590,6 +3583,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4212809,Balneário Piçarras (SC),23147,56,2419.3
 1,5212808,Mara Rosa (GO),9503,23,2420.3
 1,3519402,Ibirá (SP),12393,30,2420.7
+1,3506300,Bernardino de Campos (SP),11148,27,2422.0
 1,4312609,Muçum (RS),4954,12,2422.3
 1,4205191,Ermo (SC),2063,5,2423.7
 1,2800670,Boquim (SE),26816,65,2423.9
@@ -3599,7 +3593,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4312179,Mato Queimado (RS),1648,4,2427.2
 1,3105004,Baldim (MG),7826,19,2427.8
 1,4323200,Victor Graeff (RS),2882,7,2428.9
-1,4315701,Rio Pardo (RS),38275,93,2429.8
 1,3140100,Marilac (MG),4115,10,2430.1
 1,4208500,Ituporanga (SC),25086,61,2431.6
 1,5101852,Bom Jesus do Araguaia (MT),6580,16,2431.6
@@ -3610,6 +3603,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3105301,Bandeira do Sul (MG),5746,14,2436.5
 1,3533304,Nova Luzitânia (SP),4101,10,2438.4
 1,2202455,Capitão Gervásio Oliveira (PI),4100,10,2439.0
+1,2512101,Pombal (PB),32801,80,2439.0
 1,2804003,Maruim (SE),17213,42,2440.0
 1,4315131,Pouso Novo (RS),1639,4,2440.5
 1,5102603,Campinápolis (MT),15980,39,2440.6
@@ -3624,12 +3618,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3122470,Dom Bosco (MG),3677,9,2447.6
 1,4309407,Guaporé (RS),25727,63,2448.8
 1,4117701,Palmeira (PR),33877,83,2450.0
+1,4105607,Cidade Gaúcha (PR),12652,31,2450.2
 1,1101476,Primavera de Rondônia (RO),2856,7,2451.0
 1,4204509,Corupá (SC),15909,39,2451.4
 1,4305355,Charqueadas (RS),40789,100,2451.6
 1,3102100,Alto Rio Doce (MG),11000,27,2454.5
 1,2205607,Landri Sales (PI),5295,13,2455.1
 1,1100064,Colorado do Oeste (RO),15882,39,2455.6
+1,4315701,Rio Pardo (RS),38275,94,2455.9
 1,5103106,Cocalinho (MT),5700,14,2456.1
 1,2500304,Alagoa Grande (PB),28496,70,2456.5
 1,3305307,São Sebastião do Alto (RJ),9357,23,2458.1
@@ -3663,7 +3659,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4104253,Campo Magro (PR),29318,73,2489.9
 1,3546702,Santa Gertrudes (SP),26898,67,2490.9
 1,5100359,Alto Boa Vista (MT),6822,17,2491.9
-1,3510153,Canitar (SP),5216,13,2492.3
 1,4307104,Herval (RS),6821,17,2492.3
 1,5218102,Portelândia (GO),4011,10,2493.1
 1,2304608,General Sampaio (CE),7618,19,2494.1
@@ -3684,7 +3679,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3106309,Belo Oriente (MG),26700,67,2509.4
 1,1712504,Marianópolis do Tocantins (TO),5175,13,2512.1
 1,4312203,Maximiliano de Almeida (RS),4377,11,2513.1
-1,3147303,Paraisópolis (MG),21083,53,2513.9
 1,3158607,Santana do Deserto (MG),3976,10,2515.1
 1,4102703,Barra do Jacaré (PR),2781,7,2517.1
 1,2511509,Pilar (PB),11917,30,2517.4
@@ -3694,7 +3688,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3131158,Ipaba (MG),18607,47,2525.9
 1,3544004,Rio das Pedras (SP),35228,89,2526.4
 1,3130903,Inhapim (MG),24140,61,2526.9
-1,3154309,Resplendor (MG),17397,44,2529.2
 1,4306304,David Canabarro (RS),4740,12,2531.6
 1,2905602,Camacan (BA),31988,81,2532.2
 1,2800506,Areia Branca (SE),18542,47,2534.8
@@ -3704,13 +3697,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3160702,Santos Dumont (MG),46487,118,2538.3
 1,4100707,Alto Piquiri (PR),9836,25,2541.7
 1,3128808,Guidoval (MG),7078,18,2543.1
-1,2506004,Esperança (PB),33007,84,2544.9
 1,3109105,Bueno Brandão (MG),11001,28,2545.2
 1,2501906,Belém (PB),17676,45,2545.8
 1,4300471,Almirante Tamandaré do Sul (RS),1964,5,2545.8
 1,5220207,São Miguel do Araguaia (GO),21993,56,2546.3
 1,3105905,Barroso (MG),20810,53,2546.9
-1,3535002,Palestina (SP),12957,33,2546.9
 1,2912905,Ibirataia (BA),15312,39,2547.0
 1,3534203,Orindiúva (SP),7066,18,2547.4
 1,2303105,Cariré (CE),18448,47,2547.7
@@ -3731,6 +3722,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3133402,Itapagipe (MG),15243,39,2558.6
 1,3101805,Alpercata (MG),7424,19,2559.3
 1,2412609,São Paulo do Potengi (RN),17579,45,2559.9
+1,3147303,Paraisópolis (MG),21083,54,2561.3
+1,4314779,Pontão (RS),3904,10,2561.5
 1,3553856,Taquarivaí (SP),5852,15,2563.2
 1,4126504,Sertanópolis (PR),16369,42,2565.8
 1,3520707,Indiaporã (SP),3897,10,2566.1
@@ -3739,7 +3732,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3150158,Piedade de Caratinga (MG),8566,22,2568.3
 1,4321626,Travesseiro (RS),2336,6,2568.5
 1,4321303,Taquari (RS),26862,69,2568.7
-1,4123709,Santa Isabel do Ivaí (PR),8562,22,2569.5
 1,1100072,Corumbiara (RO),7391,19,2570.7
 1,2600302,Agrestina (PE),24885,64,2571.8
 1,5212105,Joviânia (GO),7387,19,2572.1
@@ -3747,21 +3739,20 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4320107,Sarandi (RS),24489,63,2572.6
 1,1715150,Novo Alegre (TO),2332,6,2572.9
 1,3527405,Lucélia (SP),21747,56,2575.1
+1,2506004,Esperança (PB),33007,85,2575.2
 1,3139805,Mar de Espanha (MG),12814,33,2575.3
 1,5203559,Bonfinópolis (GO),9706,25,2575.7
 1,5103809,Figueirópolis D'Oeste (MT),3494,9,2575.8
 1,4316006,Rolante (RS),21349,55,2576.2
-1,3203700,Muniz Freire (ES),17465,45,2576.6
 1,1100502,Novo Horizonte do Oeste (RO),8538,22,2576.7
 1,4206405,Guaraciaba (SC),10090,26,2576.8
 1,4101705,Araruna (PR),13970,36,2577.0
 1,3163003,São José da Safira (MG),4268,11,2577.3
 1,4315750,Riozinho (RS),4653,12,2579.0
-1,5213806,Morrinhos (GO),46136,119,2579.3
 1,3541505,Presidente Venceslau (SP),39516,102,2581.2
 1,4317954,Santo Expedito do Sul (RS),2324,6,2581.8
 1,3544251,Rosana (SP),16643,43,2583.7
-1,4105201,Cerro Azul (PR),17779,46,2587.3
+1,3154309,Resplendor (MG),17397,45,2586.7
 1,4301404,Arvorezinha (RS),10424,27,2590.2
 1,3114402,Carmo do Rio Claro (MG),21225,55,2591.3
 1,4308052,Faxinalzinho (RS),2315,6,2591.8
@@ -3778,8 +3769,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1711506,Jaú do Tocantins (TO),3849,10,2598.1
 1,3512001,Colina (SP),18468,48,2599.1
 1,3515152,Engenheiro Coelho (SP),20773,54,2599.5
-1,5106224,Nova Mutum (MT),45378,118,2600.4
 1,4210506,Maravilha (SC),25762,67,2600.7
+1,5213806,Morrinhos (GO),46136,120,2601.0
 1,5211008,Itapirapuã (GO),4997,13,2601.6
 1,4321329,Taquaruçu do Sul (RS),3072,8,2604.2
 1,4211801,Ouro (SC),7295,19,2604.5
@@ -3803,6 +3794,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1702158,Araguanã (TO),5729,15,2618.3
 1,4121703,Reserva (PR),26715,70,2620.3
 1,5006259,Novo Horizonte do Sul (MS),3814,10,2621.9
+1,5106224,Nova Mutum (MT),45378,119,2622.4
 1,2406106,Jucurutu (RN),18295,48,2623.7
 1,2513802,Santa Teresinha (PB),4573,12,2624.1
 1,4310850,Jaboticaba (RS),3810,10,2624.7
@@ -3810,7 +3802,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4302709,Butiá (RS),20941,55,2626.4
 1,3550803,São Sebastião da Grama (SP),12182,32,2626.8
 1,4306908,Encruzilhada do Sul (RS),25877,68,2627.8
-1,2912103,Ibicaraí (BA),21689,57,2628.1
 1,5204557,Caldazinha (GO),3804,10,2628.8
 1,5106455,Planalto da Serra (MT),2662,7,2629.6
 1,5222054,Vicentinópolis (GO),8743,23,2630.7
@@ -3818,6 +3809,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,1713700,Monte Santo do Tocantins (TO),2279,6,2632.7
 1,3510807,Casa Branca (SP),30380,80,2633.3
 1,3500550,Águas de Santa Bárbara (SP),6075,16,2633.7
+1,3203700,Muniz Freire (ES),17465,46,2633.8
 1,4217709,Sombrio (SC),30374,80,2633.8
 1,4310801,Ivoti (RS),24293,64,2634.5
 1,5107941,Tabaporã (MT),9489,25,2634.6
@@ -3830,8 +3822,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3127305,Galiléia (MG),6817,18,2640.5
 1,3512506,Coroados (SP),6058,16,2641.1
 1,3169000,Tocantins (MG),16659,44,2641.2
-1,4201901,Aurora (SC),5679,15,2641.3
-1,3543204,Ribeirão do Sul (SP),4541,12,2642.6
 1,3517802,Guaraçaí (SP),8323,22,2643.3
 1,4321451,Teutônia (RS),33232,88,2648.1
 1,3519303,Ibaté (SP),35104,93,2649.3
@@ -3841,12 +3831,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3502507,Aparecida (SP),36157,96,2655.1
 1,3509452,Campina do Monte Alegre (SP),6024,16,2656.0
 1,5002951,Chapadão do Sul (MS),25218,67,2656.8
+1,4107900,Floresta (PR),6774,18,2657.2
 1,3534302,Orlândia (SP),44028,117,2657.4
 1,2202711,Cocal de Telha (PI),4891,13,2657.9
 1,3532843,Nova Canaã Paulista (SP),1881,5,2658.2
 1,4211108,Monte Castelo (SC),8275,22,2658.6
 1,3112604,Capinópolis (MG),16173,43,2658.8
-1,4125704,São Miguel do Iguaçu (PR),27452,73,2659.2
 1,4110052,Iguatu (PR),2256,6,2659.6
 1,5215405,Ouro Verde de Goiás (GO),3759,10,2660.3
 1,2310001,Palhano (CE),9386,25,2663.5
@@ -3856,9 +3846,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5213855,Morro Agudo de Goiás (GO),2248,6,2669.0
 1,4309555,Harmonia (RS),4866,13,2671.6
 1,4126207,Sapopema (PR),6736,18,2672.2
-1,4313706,Palmeira das Missões (RS),33303,89,2672.4
 1,3157336,Santa Cruz de Minas (MG),8604,23,2673.2
 1,2403707,Felipe Guerra (RN),5985,16,2673.4
+1,2912103,Ibicaraí (BA),21689,58,2674.2
 1,4319752,São Vendelino (RS),2243,6,2675.0
 1,2201150,Baixa Grande do Ribeiro (PI),11586,31,2675.6
 1,2708907,Satuba (AL),13828,37,2675.7
@@ -3870,8 +3860,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3103009,Antônio Dias (MG),9318,25,2683.0
 1,3536604,Paulo de Faria (SP),8945,24,2683.1
 1,3529203,Martinópolis (SP),26461,71,2683.2
+1,3510153,Canitar (SP),5216,14,2684.0
 1,4302600,Braga (RS),3353,9,2684.2
 1,4106704,Cruzeiro do Sul (PR),4469,12,2685.2
+1,4123709,Santa Isabel do Ivaí (PR),8562,23,2686.3
 1,3524600,Jacupiranga (SP),17866,48,2686.7
 1,4108809,Guaíra (PR),33119,89,2687.3
 1,4119202,Pinhalão (PR),6326,17,2687.3
@@ -3881,12 +3873,15 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4311122,Jaquirana (RS),3716,10,2691.1
 1,1703206,Bernardo Sayão (TO),4459,12,2691.2
 1,2806800,São Domingos (SE),11137,30,2693.7
+1,4125704,São Miguel do Iguaçu (PR),27452,74,2695.6
 1,2900603,Aiquara (BA),4446,12,2699.1
 1,4300646,Ametista do Sul (RS),7409,20,2699.4
+1,4105201,Cerro Azul (PR),17779,48,2699.8
 1,5005202,Ladário (MS),23331,63,2700.3
 1,3518107,Guarantã (SP),6664,18,2701.1
+1,3535002,Palestina (SP),12957,35,2701.2
 1,4103206,Bom Sucesso (PR),7032,19,2701.9
-1,5215702,Palmeiras de Goiás (GO),28858,78,2702.9
+1,4313706,Palmeira das Missões (RS),33303,90,2702.5
 1,1101005,Governador Jorge Teixeira (RO),7767,21,2703.7
 1,4123857,Santa Maria do Oeste (PR),9615,26,2704.1
 1,3163706,São Lourenço (MG),45851,124,2704.4
@@ -3901,6 +3896,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3157104,Salto da Divisa (MG),7009,19,2710.8
 1,4304101,Campos Borges (RS),3320,9,2710.8
 1,3555703,União Paulista (SP),1844,5,2711.5
+1,4125753,São Pedro do Iguaçu (PR),5897,16,2713.2
 1,3144359,Naque (MG),6996,19,2715.8
 1,3522901,Itapuí (SP),13992,38,2715.8
 1,2504702,Congo (PB),4786,13,2716.3
@@ -3923,6 +3919,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3515806,Flora Rica (SP),1464,4,2732.2
 1,4104659,Carambeí (PR),23415,64,2733.3
 1,4212502,Penha (SC),32531,89,2735.9
+1,5215702,Palmeiras de Goiás (GO),28858,79,2737.5
 1,2933257,Vereda (BA),6205,17,2739.7
 1,1713205,Miracema do Tocantins (TO),18248,50,2740.0
 1,3505302,Barra Bonita (SP),36126,99,2740.4
@@ -3936,9 +3933,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3303955,Pinheiral (RJ),25156,69,2742.9
 1,4308805,General Câmara (RS),8385,23,2743.0
 1,3515400,Fartura (SP),16036,44,2743.8
-1,4106209,Contenda (PR),18584,51,2744.3
 1,2400604,Almino Afonso (RN),4735,13,2745.5
 1,4204103,Caxambu do Sul (SC),3642,10,2745.7
+1,5215207,Novo Brasil (GO),2913,8,2746.3
 1,4217154,São Miguel da Boa Vista (SC),1820,5,2747.3
 1,3516705,Garça (SP),44390,122,2748.4
 1,3139607,Mantena (MG),27644,76,2749.2
@@ -3947,7 +3944,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4114401,Mangueirinha (PR),16714,46,2752.2
 1,2400703,Alto do Rodrigues (RN),14529,40,2753.1
 1,3100401,Acaiaca (MG),3994,11,2754.1
-1,5211206,Itapuranga (GO),25768,71,2755.4
 1,4128609,Verê (PR),7257,20,2756.0
 1,4103222,Bom Sucesso do Sul (PR),3264,9,2757.4
 1,5106281,Novo São Joaquim (MT),5074,14,2759.2
@@ -3972,8 +3968,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3161601,São Geraldo da Piedade (MG),3962,11,2776.4
 1,4213302,Ponte Alta (SC),4682,13,2776.6
 1,4127809,Tomazina (PR),7918,22,2778.5
-1,4318903,São Luiz Gonzaga (RS),33468,93,2778.8
-1,5102702,Canarana (MT),21579,60,2780.5
 1,4304713,Caraá (RS),8270,23,2781.1
 1,3500303,Aguaí (SP),36305,101,2782.0
 1,4113403,Leópolis (PR),3954,11,2782.0
@@ -3995,10 +3989,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3520103,Igarapava (SP),30432,85,2793.1
 1,3501509,Alvinlândia (SP),3222,9,2793.3
 1,4126306,Sengés (PR),19327,54,2794.0
+1,5211206,Itapuranga (GO),25768,72,2794.2
 1,3556305,Valparaíso (SP),26480,74,2794.6
 1,4302808,Caçapava do Sul (RS),33624,94,2795.6
 1,3160405,Santo Antônio do Monte (MG),28243,79,2797.2
-1,5103056,Cláudia (MT),12149,34,2798.6
 1,5106109,Nossa Senhora do Livramento (MT),13216,37,2799.6
 1,1100130,Machadinho D'Oeste (RO),39991,112,2800.6
 1,3162609,São João do Oriente (MG),7498,21,2800.7
@@ -4012,18 +4006,18 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3520905,Ipaussu (SP),14971,42,2805.4
 1,5209804,Hidrolina (GO),3564,10,2805.8
 1,3200359,Alto Rio Novo (ES),7836,22,2807.6
+1,4318903,São Luiz Gonzaga (RS),33468,94,2808.7
 1,3128204,Guaraciaba (MG),10324,29,2809.0
 1,5220405,São Simão (GO),20645,58,2809.4
 1,4205175,Entre Rios (SC),3203,9,2809.9
-1,4117503,Paiçandu (PR),41281,116,2810.0
 1,2306207,Itaiçaba (CE),7827,22,2810.8
 1,3122108,Divino das Laranjeiras (MG),4979,14,2811.8
 1,2504157,Casserengue (PB),7468,21,2812.0
 1,5102793,Carlinda (MT),10305,29,2814.2
 1,3502200,Angatuba (SP),25228,71,2814.3
-1,4308300,Fontoura Xavier (RS),10304,29,2814.4
 1,1709302,Guaraí (TO),25923,73,2816.0
 1,1715002,Nova Rosalândia (TO),4260,12,2816.9
+1,4201901,Aurora (SC),5679,16,2817.4
 1,3201100,Bom Jesus do Norte (ES),9936,28,2818.0
 1,4216503,São Joaquim (SC),26952,76,2819.8
 1,3101102,Aimorés (MG),25167,71,2821.2
@@ -4036,6 +4030,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4206702,Herval d'Oeste (SC),22606,64,2831.1
 1,1100015,Alta Floresta D'Oeste (RO),22945,65,2832.9
 1,4212254,Passo de Torres (SC),8823,25,2833.5
+1,4117503,Paiçandu (PR),41281,117,2834.2
 1,3514205,Dolcinópolis (SP),2115,6,2836.9
 1,2403301,Encanto (RN),5638,16,2837.9
 1,5221551,Turvelândia (GO),5281,15,2840.4
@@ -4046,6 +4041,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5208400,Goianápolis (GO),11231,32,2849.3
 1,1707652,Figueirópolis (TO),5263,15,2850.1
 1,2407906,Monte das Gameleiras (RN),2105,6,2850.4
+1,4106209,Contenda (PR),18584,53,2851.9
 1,4107405,Enéas Marques (PR),5961,17,2851.9
 1,3535408,Panorama (SP),15777,45,2852.3
 1,3555356,Ubarana (SP),6309,18,2853.1
@@ -4054,12 +4050,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3136652,Juatuba (MG),26946,77,2857.6
 1,4306734,Doutor Maurício Cardoso (RS),4549,13,2857.8
 1,3302908,Miguel Pereira (RJ),25538,73,2858.5
-1,3201001,Boa Esperança (ES),15037,43,2859.6
 1,5107354,São José do Xingu (MT),5595,16,2859.7
 1,4112207,Janiópolis (PR),5245,15,2859.9
 1,4112702,Jataizinho (PR),12588,36,2859.9
 1,4124020,Santa Tereza do Oeste (PR),10139,29,2860.2
 1,5221601,Uruaçu (GO),40532,116,2861.9
+1,3543204,Ribeirão do Sul (SP),4541,13,2862.8
 1,3122702,Dom Silvério (MG),5237,15,2864.2
 1,5206909,Davinópolis (GO),2094,6,2865.3
 1,4321501,Torres (RS),38732,111,2865.8
@@ -4069,6 +4065,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3166907,Serrania (MG),7669,22,2868.7
 1,3133709,Itatiaiuçu (MG),11146,32,2871.0
 1,4215653,Santa Rosa do Sul (SC),8358,24,2871.5
+1,5102702,Canarana (MT),21579,62,2873.2
 1,3525607,João Ramalho (SP),4523,13,2874.2
 1,5221908,Varjão (GO),3827,11,2874.3
 1,3138609,Lima Duarte (MG),16698,48,2874.6
@@ -4076,6 +4073,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3532702,Nipoã (SP),5213,15,2877.4
 1,5108352,Vale de São Domingos (MT),3127,9,2878.2
 1,3500808,Alfredo Marcondes (SP),4166,12,2880.5
+1,5103056,Cláudia (MT),12149,35,2880.9
 1,2507903,Juripiranga (PB),10756,31,2882.1
 1,4216057,São Cristóvão do Sul (SC),5549,16,2883.4
 1,3500907,Altair (SP),4160,12,2884.6
@@ -4094,6 +4092,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2805307,Pirambu (SE),9280,27,2909.5
 1,4101903,Assaí (PR),15119,44,2910.2
 1,1703701,Brejinho de Nazaré (TO),5497,16,2910.7
+1,4308300,Fontoura Xavier (RS),10304,30,2911.5
 1,3120409,Cristiano Otoni (MG),5150,15,2912.6
 1,2408706,Paraú (RN),3768,11,2919.3
 1,3117801,Conceição dos Ouros (MG),11638,34,2921.5
@@ -4104,6 +4103,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3526100,Juquiá (SP),18812,55,2923.7
 1,4101002,Ampére (PR),19152,56,2924.0
 1,4113601,Lobato (PR),4787,14,2924.6
+1,3201001,Boa Esperança (ES),15037,44,2926.1
 1,2406403,Lagoa de Velhos (RN),2732,8,2928.3
 1,5201306,Anicuns (GO),21850,64,2929.1
 1,5200308,Alexânia (GO),27653,81,2929.2
@@ -4127,7 +4127,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5107800,Santo Antônio do Leverger (MT),16628,49,2946.8
 1,4315057,Porto Mauá (RS),2374,7,2948.6
 1,4306932,Entre-Ijuís (RS),8475,25,2949.9
-1,4312658,Não-Me-Toque (RS),17624,52,2950.5
 1,4317400,Santiago (RS),49425,146,2954.0
 1,4320503,Sertão (RS),5415,16,2954.8
 1,5209200,Guapó (GO),14209,42,2955.9
@@ -4135,7 +4134,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3542206,Rancharia (SP),29707,88,2962.3
 1,4305009,Catuípe (RS),8774,26,2963.3
 1,4118006,Paraíso do Norte (PR),13830,41,2964.6
-1,3202504,Ibiraçu (ES),12479,37,2965.0
 1,3519501,Ibirarema (SP),7753,23,2966.6
 1,1703867,Cariri do Tocantins (TO),4382,13,2966.7
 1,3106903,Bicas (MG),14494,43,2966.7
@@ -4145,7 +4143,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3539905,Poloni (SP),6059,18,2970.8
 1,3200409,Anchieta (ES),29263,87,2973.0
 1,4309803,Ibiaçá (RS),4709,14,2973.0
-1,3203502,Montanha (ES),18833,56,2973.5
 1,3525102,Jardinópolis (SP),44380,132,2974.3
 1,4314209,Pedro Osório (RS),7730,23,2975.4
 1,4320206,Seberi (RS),10750,32,2976.7
@@ -4172,6 +4169,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5208905,Goiás (GO),22645,68,3002.9
 1,3504404,Avanhandava (SP),13649,41,3003.9
 1,3518206,Guararapes (SP),32939,99,3005.6
+1,4312658,Não-Me-Toque (RS),17624,53,3007.3
 1,4125456,São José das Palmeiras (PR),3654,11,3010.4
 1,4318408,São Jerônimo (RS),24248,73,3010.6
 1,4108452,Foz do Jordão (PR),4650,14,3010.8
@@ -4181,11 +4179,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4205506,Fraiburgo (SC),36443,110,3018.4
 1,5102678,Campo Verde (MT),44041,133,3019.9
 1,3518305,Guararema (SP),29798,90,3020.3
-1,5107008,Poxoréu (MT),16219,49,3021.1
 1,3503000,Aramina (SP),5620,17,3024.9
 1,4115309,Mariópolis (PR),6610,20,3025.7
 1,5007695,São Gabriel do Oeste (MS),26771,81,3025.7
 1,4108700,Grandes Rios (PR),5618,17,3026.0
+1,3203502,Montanha (ES),18833,57,3026.6
 1,1100189,Pimenta Bueno (RO),36660,111,3027.8
 1,4305157,Cerro Grande (RS),2311,7,3029.0
 1,3158953,Santana do Paraíso (MG),34663,105,3029.2
@@ -4202,6 +4200,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2603603,Camutanga (PE),8551,26,3040.6
 1,3543006,Ribeirão Branco (SP),16444,50,3040.6
 1,3144300,Nanuque (MG),40750,124,3042.9
+1,3202504,Ibiraçu (ES),12479,38,3045.1
 1,4312302,Miraguaí (RS),4925,15,3045.7
 1,4320354,Sentinela do Sul (RS),5581,17,3046.0
 1,5002209,Bonito (MS),21976,67,3048.8
@@ -4213,7 +4212,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4218350,Treviso (SC),3929,12,3054.2
 1,3546306,Santa Cruz das Palmeiras (SP),34361,105,3055.8
 1,4207577,Iomerê (SC),2945,9,3056.0
-1,3203130,João Neiva (ES),16668,51,3059.8
 1,4308854,Gentil (RS),1634,5,3060.0
 1,3535309,Palmital (SP),22221,68,3060.2
 1,2102556,Campestre do Maranhão (MA),14374,44,3061.1
@@ -4224,7 +4222,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4111605,Ivatuba (PR),3259,10,3068.4
 1,3202207,Fundão (ES),21509,66,3068.5
 1,4305934,Coronel Pilar (RS),1628,5,3071.3
-1,4106407,Cornélio Procópio (PR),47845,147,3072.4
 1,5008008,Terenos (MS),21806,67,3072.5
 1,4122800,Salgado Filho (PR),3580,11,3072.6
 1,3304003,Piraí (RJ),29277,90,3074.1
@@ -4235,9 +4232,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4214151,Princesa (SC),2924,9,3078.0
 1,2206753,Nossa Senhora de Nazaré (PI),4870,15,3080.1
 1,3540200,Pontal (SP),49961,154,3082.4
+1,5107008,Poxoréu (MT),16219,50,3082.8
 1,3510708,Cardoso (SP),12326,38,3082.9
 1,3149952,Periquito (MG),6810,21,3083.7
-1,5218003,Porangatu (GO),45394,140,3084.1
 1,4309050,Glorinha (RS),8098,25,3087.2
 1,4121604,Renascença (PR),6802,21,3087.3
 1,5219704,Santa Terezinha de Goiás (GO),8744,27,3087.8
@@ -4247,10 +4244,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4314464,Pinhal da Serra (RS),1941,6,3091.2
 1,5001102,Aquidauana (MS),47871,148,3091.6
 1,4313656,Palmares do Sul (RS),11318,35,3092.4
+1,4106407,Cornélio Procópio (PR),47845,148,3093.3
 1,5107248,Santa Carmem (MT),4525,14,3093.9
 1,3116308,Cipotânea (MG),6787,21,3094.2
 1,3554409,Terra Roxa (SP),9370,29,3095.0
-1,4203956,Capivari de Baixo (SC),24871,77,3096.0
 1,5220157,São Luiz do Norte (GO),5167,16,3096.6
 1,4202073,Balneário Gaivota (SC),10979,34,3096.8
 1,5105150,Juína (MT),40997,127,3097.8
@@ -4263,6 +4260,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5103353,Confresa (MT),30933,96,3103.5
 1,3540309,Pontes Gestal (SP),2577,8,3104.4
 1,3204104,Pinheiros (ES),27047,84,3105.7
+1,5218003,Porangatu (GO),45394,141,3106.1
 1,2310209,Paracuru (CE),35076,109,3107.5
 1,4311270,Lagoa dos Três Cantos (RS),1609,5,3107.5
 1,3171006,Vazante (MG),20590,64,3108.3
@@ -4270,9 +4268,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2403202,Doutor Severiano (RN),7076,22,3109.1
 1,2302503,Brejo Santo (CE),49477,154,3112.6
 1,3302809,Mendes (RJ),18614,58,3115.9
-1,4304663,Capão do Leão (RS),25354,79,3115.9
 1,3551801,Sete Barras (SP),12832,40,3117.2
 1,5105200,Juscimeira (MT),11221,35,3119.2
+1,3203130,João Neiva (ES),16668,52,3119.8
 1,3516804,Gastão Vidigal (SP),4808,15,3119.8
 1,3549250,São João de Iracema (SP),1922,6,3121.7
 1,4122107,Rio Bom (PR),3203,10,3122.1
@@ -4289,17 +4287,17 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3158003,Santa Maria de Itabira (MG),10847,34,3134.5
 1,4212270,Passos Maia (SC),4147,13,3134.8
 1,4213153,Planalto Alegre (SC),2870,9,3135.9
+1,4203956,Capivari de Baixo (SC),24871,78,3136.2
 1,4215703,Santo Amaro da Imperatriz (SC),23245,73,3140.5
 1,4119400,Piraí do Sul (PR),25463,80,3141.8
-1,3201407,Castelo (ES),37534,118,3143.8
 1,3521903,Itajobi (SP),15262,48,3145.1
 1,1708205,Formoso do Araguaia (TO),18440,58,3145.3
 1,3530102,Mirandópolis (SP),29564,93,3145.7
-1,4121901,Ribeirão do Pinhal (PR),13029,41,3146.8
 1,3137536,Lagoa Grande (MG),9532,30,3147.3
 1,3552700,Tabatinga (SP),16496,52,3152.3
 1,5106232,Nova Olímpia (MT),20301,64,3152.6
 1,3519808,Icém (SP),8243,26,3154.2
+1,4304663,Capão do Leão (RS),25354,80,3155.3
 1,4306551,Dom Pedro de Alcântara (RS),2534,8,3157.1
 1,2800605,Barra dos Coqueiros (SE),30407,96,3157.2
 1,5107859,São Félix do Araguaia (MT),11708,37,3160.2
@@ -4307,9 +4305,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4209409,Laguna (SC),45814,145,3165.0
 1,3522802,Itaporanga (SP),15149,48,3168.5
 1,1716703,Colméia (TO),8205,26,3168.8
-1,4202800,Braço do Norte (SC),33450,106,3168.9
 1,2615904,Tuparetama (PE),8202,26,3170.0
 1,4322103,Tucunduva (RS),5678,18,3170.1
+1,3201407,Castelo (ES),37534,119,3170.5
 1,3115904,Chácara (MG),3154,10,3170.6
 1,4203303,Campo Alegre (SC),11978,38,3172.5
 1,4122172,Rio Branco do Ivaí (PR),4096,13,3173.8
@@ -4330,11 +4328,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4107124,Diamante do Sul (PR),3439,11,3198.6
 1,1304302,Urucará (AM),16256,52,3198.8
 1,3203106,Jerônimo Monteiro (ES),12192,39,3198.8
+1,4202800,Braço do Norte (SC),33450,107,3198.8
 1,4311304,Lagoa Vermelha (RS),27807,89,3200.6
 1,3547403,Santa Rita d'Oeste (SP),2498,8,3202.6
 1,4323606,Vista Alegre do Prata (RS),1561,5,3203.1
 1,3127008,Fronteira (MG),18103,58,3203.9
-1,4125209,São Jorge d'Oeste (PR),9050,29,3204.4
 1,3515202,Estrela d'Oeste (SP),8419,27,3207.0
 1,4307500,Espumoso (RS),15588,50,3207.6
 1,5210562,Itaguari (GO),4676,15,3207.9
@@ -4355,14 +4353,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2806909,São Francisco (SE),3724,12,3222.3
 1,5204250,Cachoeira Dourada (GO),8067,26,3223.0
 1,3534104,Oriente (SP),6515,21,3223.3
-1,5006309,Paranaíba (MS),42148,136,3226.7
+1,4121901,Ribeirão do Pinhal (PR),13029,42,3223.6
 1,3302106,Itaocara (RJ),23234,75,3228.0
 1,5221197,Terezópolis de Goiás (GO),8043,26,3232.6
 1,1200054,Assis Brasil (AC),7417,24,3235.8
 1,3547650,Santa Salete (SP),1545,5,3236.2
 1,4107157,Diamante D'Oeste (PR),5253,17,3236.2
 1,4314803,Portão (RS),37079,120,3236.3
-1,4102000,Assis Chateaubriand (PR),33362,108,3237.2
 1,4114302,Mandirituba (PR),26869,87,3237.9
 1,3304409,Rio Claro (RJ),18529,60,3238.2
 1,3119609,Coronel Pacheco (MG),3086,10,3240.4
@@ -4374,22 +4371,21 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4323309,Vila Flores (RS),3385,11,3249.6
 1,2211308,Valença do Piauí (PI),20918,68,3250.8
 1,4120002,Porecatu (PR),12914,42,3252.3
-1,4211751,Otacílio Costa (SC),18744,61,3254.4
-1,4203600,Campos Novos (SC),36244,118,3255.7
 1,4313508,Osório (RS),45994,150,3261.3
-1,4215075,Riqueza (SC),4598,15,3262.3
 1,3514957,Embaúba (SP),2452,8,3262.6
 1,3109253,Bugre (MG),3982,13,3264.7
 1,1302108,Japurá (AM),2755,9,3266.8
+1,4102000,Assis Chateaubriand (PR),33362,109,3267.2
 1,4301636,Balneário Pinhal (RS),14068,46,3269.8
 1,3301405,Conceição de Macabu (RJ),23228,76,3271.9
 1,3162302,São João da Mata (MG),2749,9,3273.9
+1,5006309,Paranaíba (MS),42148,138,3274.2
 1,4203402,Campo Belo do Sul (SC),7016,23,3278.2
 1,5106653,Pontal do Araguaia (MT),6711,22,3278.2
 1,4128534,Ventania (PR),11892,39,3279.5
 1,3535507,Paraguaçu Paulista (SP),45703,150,3282.1
+1,4203600,Campos Novos (SC),36244,119,3283.3
 1,3536000,Parapuã (SP),10964,36,3283.5
-1,4217600,Siderópolis (SC),14007,46,3284.1
 1,5005608,Miranda (MS),28013,92,3284.2
 1,3530409,Mirassolândia (SP),4871,16,3284.7
 1,4114104,Mandaguaçu (PR),22819,75,3286.7
@@ -4408,6 +4404,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5211701,Jandaia (GO),6048,20,3306.9
 1,5216809,Petrolina de Goiás (GO),10281,34,3307.1
 1,5214861,Nova Glória (GO),8164,27,3307.2
+1,4211751,Otacílio Costa (SC),18744,62,3307.7
 1,3546603,Santa Fé do Sul (SP),32322,107,3310.4
 1,5003256,Costa Rica (MS),20823,69,3313.6
 1,4308433,Forquetinha (RS),2412,8,3316.7
@@ -4419,7 +4416,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4211876,Paial (SC),1505,5,3322.3
 1,1100379,Alto Alegre dos Parecis (RO),13241,44,3323.0
 1,3112406,Capetinga (MG),6920,23,3323.7
-1,5106307,Paranatinga (MT),22563,75,3324.0
 1,5100409,Alto Garças (MT),12030,40,3325.0
 1,3165800,Senador José Bento (MG),1502,5,3328.9
 1,3109600,Cachoeira da Prata (MG),3603,12,3330.6
@@ -4434,6 +4430,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3553906,Tarabai (SP),7468,25,3347.6
 1,5105507,Vila Bela da Santíssima Trindade (MT),16128,54,3348.2
 1,2506905,Itabaiana (PB),24477,82,3350.1
+1,4217600,Siderópolis (SC),14007,47,3355.5
 1,4320651,Silveira Martins (RS),2384,8,3355.7
 1,3151404,Pitangui (MG),27989,94,3358.5
 1,2920502,Maracás (BA),20834,70,3359.9
@@ -4443,12 +4440,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3140209,Maripá de Minas (MG),2973,10,3363.6
 1,3107109,Boa Esperança (MG),40127,135,3364.3
 1,3203809,Muqui (ES),15449,52,3365.9
+1,5106307,Paranatinga (MT),22563,76,3368.3
 1,3520301,Iguape (SP),30857,104,3370.4
 1,3520442,Ilha Solteira (SP),26686,90,3372.6
 1,3528007,Macatuba (SP),17163,58,3379.4
 1,4210050,Macieira (SC),1775,6,3380.3
 1,4114807,Marialva (PR),35496,120,3380.7
-1,5216304,Paranaiguara (GO),10057,34,3380.7
 1,5100201,Água Boa (MT),25721,87,3382.5
 1,5203906,Buriti Alegre (GO),9459,32,3383.0
 1,3529906,Miracatu (SP),19779,67,3387.4
@@ -4476,6 +4473,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2401107,Areia Branca (RN),27774,95,3420.5
 1,3303856,Paty do Alferes (RJ),27769,95,3421.1
 1,4210803,Meleiro (SC),7015,24,3421.2
+1,4125209,São Jorge d'Oeste (PR),9050,31,3425.4
 1,4201802,Atalanta (SC),3210,11,3426.8
 1,4114203,Mandaguari (PR),34400,118,3430.2
 1,3555901,Uru (SP),1165,4,3433.5
@@ -4502,6 +4500,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3521705,Itaberá (SP),17556,61,3474.6
 1,3112653,Capitão Andrade (MG),5468,19,3474.8
 1,4107751,Figueira (PR),7770,27,3474.9
+1,4215075,Riqueza (SC),4598,16,3479.8
+1,5216304,Paranaiguara (GO),10057,35,3480.2
 1,5206404,Crixás (GO),16949,59,3481.0
 1,3100500,Açucena (MG),9470,33,3484.7
 1,3505203,Bariri (SP),35264,123,3488.0
@@ -4533,7 +4533,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5219001,Sanclerlândia (GO),7637,27,3535.4
 1,2300804,Antonina do Norte (CE),7353,26,3536.0
 1,3509254,Cajati (SP),28549,101,3537.8
-1,5101308,Arenápolis (MT),9607,34,3539.1
 1,3200169,Água Doce do Norte (ES),11019,39,3539.3
 1,3549003,São Francisco (SP),2821,10,3544.8
 1,3537404,Pereira Barreto (SP),25669,91,3545.1
@@ -4550,8 +4549,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3125002,Ewbank da Câmara (MG),3913,14,3577.8
 1,4211702,Orleans (SC),22912,82,3578.9
 1,5211404,Itauçu (GO),8938,32,3580.2
-1,4101200,Antonina (PR),18980,68,3582.7
-1,4106605,Cruzeiro do Oeste (PR),20932,75,3583.0
 1,3512407,Cordeirópolis (SP),24528,88,3587.7
 1,3204203,Piúma (ES),21711,78,3592.6
 1,4111209,Itapejara d'Oeste (PR),11964,43,3594.1
@@ -4572,6 +4569,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4315552,Rio dos Índios (RS),2752,10,3633.7
 1,5105002,Jauru (MT),8793,32,3639.3
 1,5209705,Hidrolândia (GO),21706,79,3639.5
+1,5101308,Arenápolis (MT),9607,35,3643.2
 1,3133105,Itanhandu (MG),15331,56,3652.7
 1,3143609,Morro da Garça (MG),2462,9,3655.6
 1,4204251,Cocal do Sul (SC),16684,61,3656.2
@@ -4591,12 +4589,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5219357,Santa Isabel (GO),3809,14,3675.5
 1,4315073,Porto Vera Cruz (RS),1360,5,3676.5
 1,4112959,Juranda (PR),7340,27,3678.5
+1,4106605,Cruzeiro do Oeste (PR),20932,77,3678.6
 1,3557154,Zacarias (SP),2718,10,3679.2
 1,5108105,Tesouro (MT),3805,14,3679.4
 1,3133600,Itapeva (MG),9783,36,3679.9
 1,5214051,Mundo Novo (GO),4887,18,3683.2
 1,4220000,Balneário Rincão (SC),12760,47,3683.4
 1,3512308,Conchas (SP),17896,66,3688.0
+1,4101200,Antonina (PR),18980,70,3688.1
 1,4202107,Barra Velha (SC),29168,108,3702.7
 1,5214101,Mutunópolis (GO),3778,14,3705.7
 1,4125407,São José da Boa Vista (PR),6206,23,3706.1
@@ -4648,7 +4648,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4113809,Lupionópolis (PR),4920,19,3861.8
 1,4115101,Mariluz (PR),10345,40,3866.6
 1,3131505,Ipuiúna (MG),10079,39,3869.4
-1,2309508,Orós (CE),21427,83,3873.6
 1,3103306,Aracitaba (MG),2063,8,3877.8
 1,4310009,Ibirubá (RS),20350,79,3882.1
 1,5221304,Três Ranchos (GO),2833,11,3882.8
@@ -4661,16 +4660,16 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3159209,Santa Rita de Caldas (MG),8949,35,3911.1
 1,1100155,Ouro Preto do Oeste (RO),36035,141,3912.9
 1,4313086,Nova Pádua (RS),2553,10,3917.0
+1,2309508,Orós (CE),21427,84,3920.3
 1,3532603,Nhandeara (SP),11478,45,3920.5
-1,4124053,Santa Terezinha de Itaipu (PR),23465,92,3920.7
 1,3526407,Laranjal Paulista (SP),28516,112,3927.6
 1,5210208,Iporá (GO),31531,124,3932.6
-1,4112801,Joaquim Távora (PR),11908,47,3946.9
 1,4127502,Tibagi (PR),20522,81,3947.0
 1,4128708,Vitorino (PR),6838,27,3948.5
 1,3555802,Urânia (SP),9114,36,3950.0
 1,4205555,Frei Rogério (SC),2023,8,3954.5
 1,3545100,Salmourão (SP),5300,21,3962.3
+1,4124053,Santa Terezinha de Itaipu (PR),23465,93,3963.3
 1,4213401,Ponte Serrada (SC),11593,46,3967.9
 1,5108303,União do Sul (MT),3525,14,3971.6
 1,3511201,Catiguá (SP),7804,31,3972.3
@@ -4689,14 +4688,13 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5106000,Nortelândia (MT),5989,24,4007.3
 1,2514909,São Mamede (PB),7724,31,4013.5
 1,4304002,Campo Novo (RS),4484,18,4014.3
-1,4302451,Boqueirão do Leão (RS),7714,31,4018.7
 1,4312708,Nonoai (RS),11695,47,4018.8
 1,2200202,Água Branca (PI),17411,70,4020.4
 1,5218904,Rubiataba (GO),19882,80,4023.7
 1,3162203,São João Batista do Glória (MG),7453,30,4025.2
 1,3552601,Tabapuã (SP),12407,50,4030.0
+1,4112801,Joaquim Távora (PR),11908,48,4030.9
 1,3107604,Bom Jesus da Penha (MG),4217,17,4031.3
-1,3540804,Potirendaba (SP),17361,70,4032.0
 1,3134806,Jacuí (MG),7686,31,4033.3
 1,5108055,Terra Nova do Norte (MT),9667,39,4034.3
 1,4101101,Andirá (PR),20031,81,4043.7
@@ -4710,25 +4708,24 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3202801,Itapemirim (ES),34348,140,4075.9
 1,3103751,Araporã (MG),6869,28,4076.3
 1,4103503,Califórnia (PR),8570,35,4084.0
+1,3540804,Potirendaba (SP),17361,71,4089.6
 1,4108106,Flórida (PR),2689,11,4090.7
 1,4103305,Borrazópolis (PR),6592,27,4095.9
 1,3514700,Echaporã (SP),6102,25,4097.0
-1,5103205,Colíder (MT),33438,137,4097.1
 1,4307450,Esperança do Sul (RS),2926,12,4101.2
-1,4321436,Terra de Areia (RS),11204,46,4105.7
 1,5105903,Nobres (MT),15336,63,4108.0
 1,4109708,Ibaiti (PR),31364,129,4113.0
 1,3138625,Limeira do Oeste (MG),7536,31,4113.6
 1,4103958,Campina do Simão (PR),3887,16,4116.3
-1,4110078,Imbaú (PR),13111,54,4118.7
 1,4305454,Cidreira (RS),16254,67,4122.1
+1,5103205,Colíder (MT),33438,138,4127.0
 1,4300208,Ajuricaba (RS),7024,29,4128.7
 1,3122504,Dom Cavati (MG),5072,21,4140.4
 1,4103008,Boa Esperança (PR),4105,17,4141.3
 1,4207858,Irati (SC),1930,8,4145.1
 1,5205406,Ceres (GO),22191,92,4145.8
 1,3554656,Torre de Pedra (SP),2412,10,4145.9
-1,5002902,Cassilândia (MS),21939,91,4147.9
+1,4302451,Boqueirão do Leão (RS),7714,32,4148.3
 1,4127601,Tijucas do Sul (PR),16868,70,4149.9
 1,4316436,Saldanha Marinho (RS),2650,11,4150.9
 1,3517109,Glicério (SP),4815,20,4153.7
@@ -4742,6 +4739,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4206207,Gravatal (SC),11501,48,4173.6
 1,4204806,Curitibanos (SC),39745,166,4176.6
 1,3114550,Carneirinho (MG),10027,42,4188.7
+1,5002902,Cassilândia (MS),21939,92,4193.4
+1,4110078,Imbaú (PR),13111,55,4195.0
 1,3152600,Pouso Alto (MG),5940,25,4208.8
 1,3140308,Marliéria (MG),4039,17,4209.0
 1,4300877,Araricá (RS),5698,24,4212.0
@@ -4757,6 +4756,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,3544806,Sales (SP),6331,27,4264.7
 1,4123907,Santa Mariana (PR),11724,50,4264.8
 1,4321493,Toropi (RS),2806,12,4276.6
+1,4321436,Terra de Areia (RS),11204,48,4284.2
 1,4102802,Bela Vista do Paraíso (PR),15397,66,4286.5
 1,2312403,São Gonçalo do Amarante (CE),48422,208,4295.6
 1,5103957,Glória D'Oeste (MT),3026,13,4296.1
@@ -4774,7 +4774,6 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,5203500,Bom Jesus de Goiás (GO),25216,110,4362.3
 1,3150109,Piau (MG),2748,12,4366.8
 1,3532504,Neves Paulista (SP),8930,39,4367.3
-1,4305900,Coronel Bicaco (RS),7325,32,4368.6
 1,4125803,São Pedro do Ivaí (PR),10981,48,4371.2
 1,4304952,Caseiros (RS),3202,14,4372.3
 1,4212700,Petrolândia (SC),5937,26,4379.3
@@ -4789,18 +4788,19 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,2505808,Duas Estradas (PB),3596,16,4449.4
 1,4209706,Lebon Régis (SC),12107,54,4460.2
 1,3503356,Arco-Íris (SP),1791,8,4466.8
-1,5105622,Mirassol d'Oeste (MT),27739,124,4470.2
 1,4117214,Nova Santa Bárbara (PR),4249,19,4471.6
 1,3504206,Auriflama (SP),15189,68,4476.9
 1,3512605,Coronel Macedo (SP),4681,21,4486.2
 1,3500204,Adolfo (SP),3562,16,4491.9
 1,3204302,Presidente Kennedy (ES),11574,52,4492.8
-1,5107107,São José dos Quatro Marcos (MT),18906,85,4495.9
+1,4305900,Coronel Bicaco (RS),7325,33,4505.1
+1,5105622,Mirassol d'Oeste (MT),27739,125,4506.3
 1,4305405,Chiapetta (RS),3756,17,4526.1
 1,5205455,Cezarina (GO),8606,39,4531.7
 1,4204558,Correia Pinto (SC),12795,58,4533.0
 1,3507753,Brejo Alegre (SP),2865,13,4537.5
 1,4310652,Itati (RS),2419,11,4547.3
+1,5107107,São José dos Quatro Marcos (MT),18906,86,4548.8
 1,3117306,Conceição das Alagoas (MG),27893,127,4553.1
 1,4109609,Guaratuba (PR),37067,169,4559.3
 1,3507308,Boracéia (SP),4823,22,4561.5
@@ -4856,12 +4856,12 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4100459,Altamira do Paraná (PR),1942,10,5149.3
 1,3535903,Paranapuã (SP),4078,21,5149.6
 1,4128559,Vera Cruz do Oeste (PR),8521,44,5163.7
-1,4310330,Imbé (RS),22800,118,5175.4
 1,4107850,Flor da Serra do Sul (PR),4624,24,5190.3
 1,3514403,Dracena (SP),46793,243,5193.1
 1,5221502,Turvânia (GO),4598,24,5219.7
 1,5201207,Anhanguera (GO),1149,6,5221.9
 1,3551207,Sarutaiá (SP),3638,19,5222.6
+1,4310330,Imbé (RS),22800,120,5263.2
 1,4315107,Porto Xavier (RS),10246,54,5270.3
 1,5217203,Piranhas (GO),10385,55,5296.1
 1,2413607,Severiano Melo (RN),2440,13,5327.9
@@ -4869,8 +4869,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 1,4124004,Santana do Itararé (PR),4992,27,5408.7
 1,5218052,Porteirão (GO),3881,21,5411.0
 1,4211850,Ouro Verde (SC),2217,12,5412.7
-1,3134400,Iturama (MG),39263,213,5425.0
 1,3539004,Pirangi (SP),11417,62,5430.5
+1,3134400,Iturama (MG),39263,214,5450.4
 1,4316709,Santa Bárbara do Sul (RS),7994,44,5504.1
 1,4301958,Barra Funda (RS),2539,14,5514.0
 1,4313490,Novo Barreiro (RS),4164,23,5523.5
@@ -4928,7 +4928,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2909802,Cruz das Almas (BA),63239,64,1012.0
 2,3550605,São Roque (SP),91016,94,1032.8
 2,2902708,Barra (BA),53578,57,1063.9
-2,2931905,Tucano (BA),50687,55,1085.1
+2,2931905,Tucano (BA),50687,56,1104.8
 2,2301000,Aquiraz (CE),80271,89,1108.7
 2,2917607,Jaguaquara (BA),54423,61,1120.8
 2,1503804,Jacundá (PA),59155,68,1149.5
@@ -4972,11 +4972,11 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2103604,Coroatá (MA),65296,94,1439.6
 2,2103208,Chapadinha (MA),79675,116,1455.9
 2,3524303,Jaboticabal (SP),77263,114,1475.5
-2,2919553,Luís Eduardo Magalhães (BA),87519,134,1531.1
 2,2105708,Lago da Pedra (MA),50266,77,1531.9
-2,2402600,Ceará-Mirim (RN),73497,114,1551.1
+2,2919553,Luís Eduardo Magalhães (BA),87519,135,1542.5
 2,3544103,Rio Grande da Serra (SP),50846,79,1553.7
 2,3140001,Mariana (MG),60724,95,1564.5
+2,2402600,Ceará-Mirim (RN),73497,115,1564.7
 2,2304707,Granja (CE),54748,86,1570.8
 2,3519709,Ibiúna (SP),78878,124,1572.0
 2,3146107,Ouro Preto (MG),74281,117,1575.1
@@ -4989,10 +4989,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,5206206,Cristalina (GO),58997,97,1644.2
 2,2313500,Trairi (CE),55918,92,1645.3
 2,3300803,Cachoeiras de Macacu (RJ),58937,97,1645.8
-2,2907509,Catu (BA),54704,91,1663.5
 2,1502202,Capanema (PA),69027,116,1680.5
 2,2610905,Pesqueira (PE),67395,114,1691.5
 2,3107406,Bom Despacho (MG),50605,86,1699.4
+2,2907509,Catu (BA),54704,93,1700.1
 2,2606408,Gravatá (PE),84074,143,1700.9
 2,2604007,Carpina (PE),83641,143,1709.7
 2,5006200,Nova Andradina (MS),54374,93,1710.4
@@ -5003,10 +5003,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2601201,Arcoverde (PE),74338,130,1748.8
 2,2300200,Acaraú (CE),62641,110,1756.0
 2,2305407,Icó (CE),68018,120,1764.2
-2,4322608,Venâncio Aires (RS),71554,127,1774.9
 2,1505304,Oriximiná (PA),73096,130,1778.5
 2,4207502,Indaial (SC),69425,124,1786.1
 2,1200203,Cruzeiro do Sul (AC),88376,158,1787.8
+2,4322608,Venâncio Aires (RS),71554,128,1788.9
 2,3524709,Jaguariúna (SP),57488,103,1791.7
 2,3135100,Janaúba (MG),71648,129,1800.5
 2,2601102,Araripina (PE),84418,152,1800.6
@@ -5027,25 +5027,25 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2612208,Salgueiro (PE),60930,114,1871.0
 2,4307906,Farroupilha (RS),72331,136,1880.2
 2,1600279,Laranjal do Jari (AP),50410,95,1884.5
-2,2516201,Sousa (PB),69444,131,1886.4
 2,2302404,Boa Viagem (CE),54470,103,1890.9
 2,1304062,Tabatinga (AM),65844,125,1898.4
-2,2706307,Palmeira dos Índios (AL),73218,139,1898.4
 2,4105508,Cianorte (PR),82620,157,1900.3
+2,2516201,Sousa (PB),69444,132,1900.8
 2,4203204,Camboriú (SC),82989,158,1903.9
+2,2706307,Palmeira dos Índios (AL),73218,140,1912.1
 2,3556453,Vargem Grande Paulista (SP),52597,101,1920.3
-2,2305233,Horizonte (CE),67337,130,1930.6
+2,2305233,Horizonte (CE),67337,131,1945.4
 2,2910057,Dias d'Ávila (BA),81089,158,1948.5
-2,2613909,Serra Talhada (PE),86350,170,1968.7
 2,2914604,Irecê (BA),72967,144,1973.5
 2,2601904,Bezerros (PE),60798,120,1973.7
-2,2608909,Limoeiro (PE),56250,112,1991.1
+2,2613909,Serra Talhada (PE),86350,172,1991.9
+2,2608909,Limoeiro (PE),56250,113,2008.9
 2,2615300,Timbaúba (PE),53022,107,2018.0
 2,1302900,Maués (AM),63905,129,2018.6
-2,4215802,São Bento do Sul (SC),84507,171,2023.5
 2,3531803,Monte Mor (SP),59772,121,2024.4
 2,3506102,Bebedouro (SP),77496,158,2038.8
 2,2407104,Macaíba (RN),80792,165,2042.3
+2,4215802,São Bento do Sul (SC),84507,173,2047.2
 2,2302206,Beberibe (CE),53573,110,2053.3
 2,2101400,Balsas (MA),94887,195,2055.1
 2,2906501,Candeias (BA),87076,179,2055.7
@@ -5054,8 +5054,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2303501,Cascavel (CE),71743,150,2090.8
 2,5217609,Planaltina (GO),89918,188,2090.8
 2,4210100,Mafra (SC),56292,118,2096.2
-2,3524006,Itupeva (SP),61252,129,2106.1
 2,2515302,Sapé (PB),52625,111,2109.3
+2,3524006,Itupeva (SP),61252,130,2122.4
 2,2914703,Itaberaba (BA),64489,138,2139.9
 2,4303509,Camaquã (RS),66261,142,2143.0
 2,3139409,Manhuaçu (MG),90229,196,2172.3
@@ -5063,8 +5063,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,4207007,Içara (SC),56421,123,2180.0
 2,3556701,Vinhedo (SP),78728,172,2184.7
 2,2311306,Quixadá (CE),87728,192,2188.6
-2,2301109,Aracati (CE),74547,164,2200.0
 2,3529302,Matão (SP),83170,184,2212.3
+2,2301109,Aracati (CE),74547,165,2213.4
 2,2109908,Santa Inês (MA),89044,198,2223.6
 2,4219309,Videira (SC),53065,118,2223.7
 2,4114609,Marechal Cândido Rondon (PR),52944,118,2228.8
@@ -5075,7 +5075,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,4317103,Sant'Ana do Livramento (RS),77027,173,2246.0
 2,4311403,Lajeado (RS),84014,189,2249.6
 2,4211306,Navegantes (SC),81475,184,2258.4
-2,2915601,Itamaraju (BA),64486,146,2264.1
+2,2915601,Itamaraju (BA),64486,147,2279.6
 2,2600054,Abreu e Lima (PE),99990,228,2280.2
 2,3512803,Cosmópolis (SP),72252,165,2283.7
 2,3162500,São João del Rei (MG),90082,207,2297.9
@@ -5085,8 +5085,8 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2503704,Cajazeiras (PB),61993,145,2339.0
 2,2702405,Delmiro Gouveia (AL),52016,122,2345.4
 2,3503802,Artur Nogueira (SP),54408,128,2352.6
-2,3101607,Alfenas (MG),79996,189,2362.6
 2,5107925,Sorriso (MT),90313,214,2369.5
+2,3101607,Alfenas (MG),79996,190,2375.1
 2,4202305,Biguaçu (SC),68481,163,2380.2
 2,4205902,Gaspar (SC),69639,166,2383.7
 2,3537800,Piedade (SP),55348,132,2384.9
@@ -5095,21 +5095,21 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,3540606,Porto Feliz (SP),53098,127,2391.8
 2,2313401,Tianguá (CE),75946,182,2396.4
 2,2314102,Viçosa do Ceará (CE),60889,146,2397.8
-2,2311801,Russas (CE),78194,190,2429.9
 2,5204508,Caldas Novas (GO),91162,222,2435.2
 2,3133808,Itaúna (MG),93214,228,2446.0
 2,1500404,Alenquer (PA),56789,139,2447.7
-2,3203908,Nova Venécia (ES),50110,123,2454.6
 2,3306107,Valença (RJ),76523,188,2456.8
 2,2802106,Estância (SE),69184,170,2457.2
 2,2301901,Barbalha (CE),60781,150,2467.9
+2,2311801,Russas (CE),78194,193,2468.2
 2,1505106,Óbidos (PA),52137,129,2474.3
+2,3203908,Nova Venécia (ES),50110,124,2474.6
 2,2506301,Guarabira (PB),58833,146,2481.6
 2,3147006,Paracatu (MG),93158,232,2490.4
 2,5007901,Sidrolândia (MS),57665,144,2497.2
 2,3506359,Bertioga (SP),63249,158,2498.1
-2,3148103,Patrocínio (MG),90757,227,2501.2
-2,2501807,Bayeux (PB),96880,243,2508.3
+2,3148103,Patrocínio (MG),90757,228,2512.2
+2,2501807,Bayeux (PB),96880,244,2518.6
 2,2400208,Açu (RN),58017,147,2533.7
 2,3136207,João Monlevade (MG),79910,203,2540.4
 2,3128709,Guaxupé (MG),51917,132,2542.5
@@ -5126,31 +5126,31 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,2806701,São Cristóvão (SE),90072,235,2609.0
 2,1100304,Vilhena (RO),99854,261,2613.8
 2,2308708,Morada Nova (CE),61890,162,2617.5
-2,2302800,Canindé (CE),76997,202,2623.5
 2,3147105,Pará de Minas (MG),93969,247,2628.5
 2,3137205,Lagoa da Prata (MG),52165,138,2645.5
+2,2302800,Canindé (CE),76997,204,2649.5
 2,3113404,Caratinga (MG),92062,244,2650.4
-2,4110706,Irati (PR),60727,161,2651.2
 2,1709500,Gurupi (TO),86647,230,2654.4
 2,4216206,São Francisco do Sul (SC),52721,140,2655.5
 2,3138401,Leopoldina (MG),52587,140,2662.3
 2,1301704,Humaitá (AM),55080,147,2668.8
 2,3540705,Porto Ferreira (SP),56150,150,2671.4
-2,4109807,Ibiporã (PR),54558,146,2676.1
+2,4110706,Irati (PR),60727,163,2684.1
 2,2313302,Tauá (CE),58859,158,2684.4
 2,3504503,Avaré (SP),90655,245,2702.6
 2,1301209,Coari (AM),85097,230,2702.8
+2,4109807,Ibiporã (PR),54558,148,2712.7
 2,2311405,Quixeramobim (CE),81082,220,2713.3
 2,4317202,Santa Rosa (RS),73254,199,2716.6
 2,3131901,Itabirito (MG),51875,142,2737.3
 2,3169406,Três Pontas (MG),56746,156,2749.1
 2,3149309,Pedro Leopoldo (MG),64258,178,2770.1
-2,5105259,Lucas do Rio Verde (MT),65534,182,2777.2
 2,4108403,Francisco Beltrão (PR),91093,253,2777.4
 2,4307609,Estância Velha (RS),50022,139,2778.8
 2,2309706,Pacatuba (CE),83432,233,2792.7
-2,2904605,Brumado (BA),67195,188,2797.8
 2,3508504,Caçapava (SP),94263,264,2800.7
+2,5105259,Lucas do Rio Verde (MT),65534,184,2807.7
+2,2904605,Brumado (BA),67195,189,2812.7
 2,3549102,São João da Boa Vista (SP),91211,262,2872.5
 2,4310207,Ijuí (RS),83475,240,2875.1
 2,1503903,Juruti (PA),57943,167,2882.1
@@ -5161,40 +5161,40 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,3507001,Boituva (SP),60997,178,2918.2
 2,2503209,Cabedelo (PB),67736,198,2923.1
 2,3301850,Guapimirim (RJ),60517,177,2924.8
-2,4118402,Paranavaí (PR),88374,260,2942.0
 2,3530508,Mococa (SP),68885,203,2946.9
+2,4118402,Paranavaí (PR),88374,261,2953.4
 2,3126109,Formiga (MG),67683,200,2955.0
 2,3509205,Cajamar (SP),76801,227,2955.7
 2,3509601,Campo Limpo Paulista (SP),84650,253,2988.8
 2,1100288,Rolim de Moura (RO),55058,165,2996.8
 2,3539301,Pirassununga (SP),76409,231,3023.2
 2,1504802,Monte Alegre (PA),58032,176,3032.8
-2,2208403,Piripiri (PI),63742,194,3043.5
 2,4321204,Taquara (RS),57466,175,3045.3
 2,4309308,Guaíba (RS),98143,300,3056.8
 2,3533403,Nova Odessa (SP),60174,184,3057.8
+2,2208403,Piripiri (PI),63742,195,3059.2
 2,2304103,Crateús (CE),75074,230,3063.6
 2,3169307,Três Corações (MG),79482,244,3069.9
 2,5218508,Quirinópolis (GO),50065,154,3076.0
 2,3537602,Peruíbe (SP),68284,211,3090.0
 2,4104303,Campo Mourão (PR),94859,295,3109.9
-2,4117602,Palmas (PR),50986,162,3177.3
 2,4122404,Rolândia (PR),66580,212,3184.1
 2,4322509,Vacaria (RS),66218,211,3186.4
 2,4104907,Castro (PR),71484,228,3189.5
+2,4117602,Palmas (PR),50986,163,3197.0
 2,3553708,Taquaritinga (SP),57177,183,3200.6
 2,3306008,Três Rios (RJ),81804,262,3202.8
 2,4118501,Pato Branco (PR),82881,266,3209.4
 2,3305505,Saquarema (RJ),89170,287,3218.6
 2,3120904,Curvelo (MG),80129,259,3232.3
-2,3205101,Viana (ES),78239,253,3233.7
+2,3205101,Viana (ES),78239,254,3246.5
 2,3531308,Monte Alto (SP),50498,165,3267.5
 2,4219507,Xanxerê (SC),50982,167,3275.7
 2,3152105,Ponte Nova (MG),59742,196,3280.8
 2,5006606,Ponta Porã (MS),92526,304,3285.6
-2,1716109,Paraíso do Tocantins (TO),51252,169,3297.4
 2,1304203,Tefé (AM),59849,198,3308.3
 2,3115300,Cataguases (MG),75123,249,3314.6
+2,1716109,Paraíso do Tocantins (TO),51252,170,3316.9
 2,5211800,Jaraguá (GO),50511,169,3345.8
 2,3164704,São Sebastião do Paraíso (MG),70956,238,3354.2
 2,1100114,Jaru (RO),51775,174,3360.7
@@ -5204,10 +5204,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,5208608,Goianésia (GO),70084,240,3424.5
 2,3530805,Mogi Mirim (SP),93189,320,3433.9
 2,4203006,Caçador (SC),78595,273,3473.5
-2,5213103,Mineiros (GO),66801,233,3488.0
-2,4317509,Santo Ângelo (RS),77593,271,3492.6
-2,4201406,Araranguá (SC),68228,240,3517.6
+2,5213103,Mineiros (GO),66801,234,3502.9
+2,4317509,Santo Ângelo (RS),77593,272,3505.5
 2,3527108,Lins (SP),78013,275,3525.1
+2,4201406,Araranguá (SC),68228,241,3532.3
 2,1718204,Porto Nacional (TO),53010,188,3546.5
 2,4306106,Cruz Alta (RS),60299,214,3549.0
 2,3168705,Timóteo (MG),89842,320,3561.8
@@ -5227,14 +5227,14 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,4321600,Tramandaí (RS),51715,207,4002.7
 2,3132404,Itajubá (MG),96869,392,4046.7
 2,5210000,Inhumas (GO),52866,218,4123.6
-2,4304705,Carazinho (RS),62110,257,4137.8
-2,5102504,Cáceres (MT),94376,392,4153.6
+2,4304705,Carazinho (RS),62110,258,4153.9
+2,5102504,Cáceres (MT),94376,394,4174.8
 2,4318002,São Borja (RS),60282,253,4196.9
 2,3546801,Santa Isabel (SP),57386,241,4199.6
 2,3530300,Mirassol (SP),59824,254,4245.8
 2,3522406,Itapeva (SP),94354,404,4281.7
-2,4307708,Esteio (RS),83202,357,4290.8
 2,3515509,Fernandópolis (SP),69116,297,4297.1
+2,4307708,Esteio (RS),83202,358,4302.8
 2,4318309,São Gabriel (RS),62105,270,4347.5
 2,3519600,Ibitinga (SP),60033,262,4364.3
 2,5005707,Naviraí (MS),54878,242,4409.8
@@ -5243,53 +5243,53 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 2,3502101,Andradina (SP),57157,258,4513.9
 2,3523206,Itararé (SP),50503,230,4554.2
 2,4127106,Telêmaco Borba (PR),78974,360,4558.5
-2,5107040,Primavera do Leste (MT),62019,285,4595.4
+2,5107040,Primavera do Leste (MT),62019,288,4643.7
 2,5101803,Barra do Garças (MT),61012,318,5212.1
 3,1507300,São Félix do Xingu (PA),128481,40,311.3
 3,3302270,Japeri (RJ),104768,88,840.0
 3,1504422,Marituba (PA),131521,133,1011.2
 3,1507953,Tailândia (PA),106339,111,1043.8
 3,1501808,Breves (PA),102701,118,1149.0
-3,1501709,Bragança (PA),127686,150,1174.8
+3,1501709,Bragança (PA),127686,151,1182.6
 3,3304144,Queimados (RJ),150319,180,1197.5
 3,3523404,Itatiba (SP),120858,146,1208.0
 3,1600600,Santana (AP),121364,163,1343.1
 3,3171204,Vespasiano (MG),127601,173,1355.8
 3,1500107,Abaetetuba (PA),157698,219,1388.7
 3,2612505,Santa Cruz do Capibaribe (PE),107937,151,1399.0
-3,2925303,Porto Seguro (BA),148686,212,1425.8
+3,2925303,Porto Seguro (BA),148686,214,1439.3
 3,3156700,Sabará (MG),136344,199,1459.5
 3,3138203,Lavras (MG),103773,153,1474.4
-3,2928703,Santo Antônio de Jesus (BA),101512,164,1615.6
 3,2304202,Crato (CE),132123,214,1619.7
 3,3538006,Pindamonhangaba (SP),168328,273,1621.8
 3,2103000,Caxias (MA),164880,268,1625.4
+3,2928703,Santo Antônio de Jesus (BA),101512,165,1625.4
 3,5215231,Novo Gama (GO),115711,189,1633.4
-3,2111201,São José de Ribamar (MA),177687,300,1688.4
+3,2111201,São José de Ribamar (MA),177687,301,1694.0
 3,2103307,Codó (MA),122859,211,1717.4
 3,2930709,Simões Filho (BA),134377,236,1756.3
-3,2107506,Paço do Lumiar (MA),122197,215,1759.5
 3,4307005,Erechim (RS),105862,188,1775.9
+3,2107506,Paço do Lumiar (MA),122197,218,1784.0
 3,1501303,Barcarena (PA),124680,223,1788.6
 3,1502103,Cametá (PA),137890,247,1791.3
 3,3504107,Atibaia (SP),142761,256,1793.2
 3,2101202,Bacabal (MA),104949,189,1800.9
 3,3145208,Nova Serrana (MG),102693,187,1821.0
 3,2924009,Paulo Afonso (BA),117782,218,1850.9
-3,2910727,Eunápolis (BA),113380,210,1852.2
+3,2910727,Eunápolis (BA),113380,211,1861.0
 3,2931350,Teixeira de Freitas (BA),160487,299,1863.1
 3,3556503,Várzea Paulista (SP),121838,227,1863.1
-3,2112209,Timon (MA),169107,319,1886.4
+3,2112209,Timon (MA),169107,320,1892.3
 3,2606804,Igarassu (PE),117019,226,1931.3
 3,4211900,Palhoça (SC),171797,332,1932.5
 3,3507506,Botucatu (SP),146497,285,1945.4
 3,5221858,Valparaíso de Goiás (GO),168468,328,1947.0
 3,2100055,Açailândia (MA),112445,219,1947.6
-3,2307700,Maranguape (CE),128978,253,1961.6
-3,2900702,Alagoinhas (BA),151596,300,1978.9
+3,2307700,Maranguape (CE),128978,254,1969.3
 3,1505502,Paragominas (PA),113145,224,1979.8
 3,3105608,Barbacena (MG),137313,272,1980.9
-3,2903201,Barreiras (BA),155439,309,1987.9
+3,2900702,Alagoinhas (BA),151596,302,1992.1
+3,2903201,Barreiras (BA),155439,311,2000.8
 3,5208004,Formosa (GO),121617,245,2014.5
 3,3302205,Itaperuna (RJ),103224,208,2015.0
 3,2606002,Garanhuns (PE),139788,282,2017.3
@@ -5313,10 +5313,10 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,3200607,Aracruz (ES),101220,225,2222.9
 3,3168606,Teófilo Otoni (MG),140592,313,2226.3
 3,3523909,Itu (SP),173939,389,2236.4
-3,3203205,Linhares (ES),173555,391,2252.9
 3,2510808,Patos (PB),107605,243,2258.3
 3,3525003,Jandira (SP),124937,283,2265.1
-3,2918001,Jequié (BA),155966,361,2314.6
+3,3203205,Linhares (ES),173555,394,2270.2
+3,2918001,Jequié (BA),155966,362,2321.0
 3,3516408,Franco da Rocha (SP),154489,362,2343.2
 3,4301602,Bagé (RS),121143,285,2352.6
 3,3302858,Mesquita (RJ),176103,417,2367.9
@@ -5332,7 +5332,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,1500602,Altamira (PA),114594,290,2530.7
 3,4119509,Piraquara (PR),113036,289,2556.7
 3,3151800,Poços de Caldas (MG),167397,433,2586.7
-3,2919207,Lauro de Freitas (BA),198440,514,2590.2
+3,2919207,Lauro de Freitas (BA),198440,516,2600.3
 3,2603454,Camaragibe (PE),157828,412,2610.4
 3,3169901,Ubá (MG),115552,302,2613.5
 3,3143906,Muriaé (MG),108763,285,2620.4
@@ -5341,9 +5341,9 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,3543303,Ribeirão Pires (SP),123393,330,2674.4
 3,3522109,Itanhaém (SP),101816,274,2691.1
 3,3545209,Salto (SP),118663,320,2696.7
-3,1702109,Araguaína (TO),180470,488,2704.1
-3,3201506,Colatina (ES),122499,333,2718.4
+3,1702109,Araguaína (TO),180470,489,2709.6
 3,3302007,Itaguaí (RJ),133019,362,2721.4
+3,3201506,Colatina (ES),122499,334,2726.6
 3,3152501,Pouso Alegre (MG),150737,412,2733.2
 3,3503307,Araras (SP),134236,367,2734.0
 3,4127700,Toledo (PR),140635,389,2766.0
@@ -5351,30 +5351,30 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,2207702,Parnaíba (PI),153078,436,2848.2
 3,4302105,Bento Gonçalves (RS),120454,346,2872.5
 3,5220454,Senador Canedo (GO),115371,335,2903.7
-3,5107909,Sinop (MT),142996,418,2923.2
 3,3119401,Coronel Fabriciano (MG),109855,322,2931.1
 3,3303203,Nilópolis (RJ),162485,477,2935.7
 3,3507605,Bragança Paulista (SP),168668,496,2940.7
+3,5107909,Sinop (MT),142996,421,2944.1
 3,3509007,Caieiras (SP),101470,300,2956.5
 3,2804805,Nossa Senhora do Socorro (SE),183628,546,2973.4
 3,3131703,Itabira (MG),120060,359,2990.2
-3,4109401,Guarapuava (PR),181504,550,3030.2
+3,4109401,Guarapuava (PR),181504,552,3041.3
 3,1503606,Itaituba (PA),101247,308,3042.1
 3,3304524,Rio das Ostras (RJ),150674,459,3046.3
 3,3539806,Poá (SP),117452,359,3056.6
-3,4101804,Araucária (PR),143843,442,3072.8
+3,4101804,Araucária (PR),143843,444,3086.7
 3,1303403,Parintins (AM),114273,355,3106.6
 3,1301902,Itacoatiara (AM),101337,315,3108.4
 3,4101408,Apucarana (PR),134996,422,3126.0
-3,3534708,Ourinhos (SP),113542,355,3126.6
-3,5107958,Tangará da Serra (MT),103750,326,3142.2
 3,4100400,Almirante Tamandaré (PR),118623,374,3152.8
+3,5107958,Tangará da Serra (MT),103750,328,3161.4
 3,3522307,Itapetininga (SP),163901,522,3184.8
 3,3300209,Araruama (RJ),132400,425,3210.0
-3,4209300,Lages (SC),157544,507,3218.1
+3,4209300,Lages (SC),157544,508,3224.5
 3,5221403,Trindade (GO),127599,414,3244.5
 3,3300407,Barra Mansa (RJ),184412,599,3248.2
-3,4118204,Paranaguá (PR),154936,509,3285.2
+3,3534708,Ourinhos (SP),113542,371,3267.5
+3,4118204,Paranaguá (PR),154936,510,3291.7
 3,4322400,Uruguaiana (RS),126970,419,3300.0
 3,3202405,Guarapari (ES),124859,415,3323.7
 3,3148004,Patos de Minas (MG),152488,507,3324.9
@@ -5385,7 +5385,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,3513504,Cubatão (SP),130705,443,3389.3
 3,3551702,Sertãozinho (SP),125815,427,3393.9
 3,3525300,Jaú (SP),150252,511,3401.0
-3,2913606,Ilhéus (BA),162327,554,3412.9
+3,2913606,Ilhéus (BA),162327,555,3419.0
 3,4320008,Sapucaia do Sul (RS),141075,487,3452.1
 3,3134202,Ituiutaba (MG),104671,362,3458.5
 3,3103504,Araguari (MG),117267,409,3487.8
@@ -5395,7 +5395,7 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,3304201,Resende (RJ),131341,474,3608.9
 3,3300308,Barra do Piraí (RJ),100374,367,3656.3
 3,3510500,Caraguatatuba (SP),121532,445,3661.6
-3,5211503,Itumbiara (GO),104742,385,3675.7
+3,5211503,Itumbiara (GO),104742,386,3685.2
 3,3504008,Assis (SP),104386,386,3697.8
 3,3545803,Santa Bárbara d'Oeste (SP),193475,716,3700.7
 3,3303401,Nova Friburgo (RJ),190631,713,3740.2
@@ -5405,38 +5405,38 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 3,4119152,Pinhais (PR),132157,519,3927.1
 3,5008305,Três Lagoas (MS),121388,479,3946.0
 3,5003207,Corumbá (MS),111435,445,3993.4
-3,4218707,Tubarão (SC),105686,425,4021.3
+3,4218707,Tubarão (SC),105686,426,4030.8
 3,3502804,Araçatuba (SP),197016,811,4116.4
 3,3505500,Barretos (SP),122098,511,4185.2
-3,4101507,Arapongas (PR),123027,530,4308.0
+3,4101507,Arapongas (PR),123027,532,4324.3
 3,3305802,Teresópolis (RJ),182594,790,4326.5
 3,1100122,Ji-Paraná (RO),128969,560,4342.1
-3,3506508,Birigui (SP),123638,538,4351.4
+3,3506508,Birigui (SP),123638,539,4359.5
 3,1100023,Ariquemes (RO),107863,476,4413.0
 3,3511102,Catanduva (SP),121862,575,4718.5
 3,3548807,São Caetano do Sul (SP),161127,840,5213.3
 4,2611101,Petrolina (PE),349145,485,1389.1
-4,5200258,Águas Lindas de Goiás (GO),212440,299,1407.5
-4,3300456,Belford Roxo (RJ),510906,748,1464.1
-4,1500800,Ananindeua (PA),530598,812,1530.3
+4,5200258,Águas Lindas de Goiás (GO),212440,300,1412.2
+4,3300456,Belford Roxo (RJ),510906,749,1466.0
+4,1500800,Ananindeua (PA),530598,813,1532.2
 4,1504208,Marabá (PA),279349,432,1546.5
-4,2910800,Feira de Santana (BA),614872,993,1615.0
-4,4202404,Blumenau (SC),357199,586,1640.5
+4,2910800,Feira de Santana (BA),614872,997,1621.5
+4,4202404,Blumenau (SC),357199,587,1643.3
 4,3301702,Duque de Caxias (RJ),919596,1515,1647.5
-4,2933307,Vitória da Conquista (BA),338480,582,1719.5
-4,2918407,Juazeiro (BA),216707,381,1758.1
+4,2933307,Vitória da Conquista (BA),338480,583,1722.4
+4,2918407,Juazeiro (BA),216707,383,1767.4
 4,3548906,São Carlos (SP),251983,471,1869.2
 4,2604106,Caruaru (PE),361118,689,1908.0
 4,2408003,Mossoró (RN),297378,568,1910.0
-4,2403251,Parnamirim (RN),261469,502,1919.9
+4,2403251,Parnamirim (RN),261469,505,1931.4
 4,3503208,Araraquara (SP),236072,462,1957.0
-4,1721000,Palmas (TO),299127,595,1989.1
 4,5212501,Luziânia (GO),208299,415,1992.3
-4,3515004,Embu das Artes (SP),273726,552,2016.6
+4,1721000,Palmas (TO),299127,597,1995.8
+4,3515004,Embu das Artes (SP),273726,553,2020.3
 4,4205407,Florianópolis (SC),500973,1017,2030.0
 4,2905701,Camaçari (BA),299132,611,2042.6
 4,3541000,Praia Grande (SP),325073,673,2070.3
-4,2700300,Arapiraca (AL),231747,481,2075.5
+4,2700300,Arapiraca (AL),231747,484,2088.5
 4,3157807,Santa Luzia (MG),219134,460,2099.2
 4,3154606,Ribeirão das Neves (MG),334858,713,2129.3
 4,3303500,Nova Iguaçu (RJ),821128,1766,2150.7
@@ -5444,128 +5444,128 @@ tipo,codigo,nome,populacao,obitos,obitos/habitante
 4,1502400,Castanhal (PA),200793,439,2186.3
 4,3143302,Montes Claros (MG),409341,899,2196.2
 4,1505536,Parauapebas (PA),208273,460,2208.6
-4,2111300,São Luís (MA),1101884,2462,2234.4
-4,2307304,Juazeiro do Norte (CE),274207,619,2257.4
-4,2610707,Paulista (PE),331774,756,2278.7
+4,2111300,São Luís (MA),1101884,2468,2239.8
+4,2307304,Juazeiro do Norte (CE),274207,618,2253.8
 4,3513009,Cotia (SP),249210,568,2279.2
+4,2610707,Paulista (PE),331774,757,2281.7
 4,4216602,São José (SC),246586,565,2291.3
-4,3302502,Magé (RJ),245071,563,2297.3
-4,2607901,Jaboatão dos Guararapes (PE),702298,1615,2299.6
+4,3302502,Magé (RJ),245071,564,2301.4
+4,2607901,Jaboatão dos Guararapes (PE),702298,1617,2302.4
 4,4305108,Caxias do Sul (RS),510906,1179,2307.7
 4,3167202,Sete Lagoas (MG),239639,554,2311.8
 4,3122306,Divinópolis (MG),238230,552,2317.1
 4,3305109,São João de Meriti (RJ),472406,1096,2320.0
 4,3554102,Taubaté (SP),314924,733,2327.5
 4,3520509,Indaiatuba (SP),251627,591,2348.7
-4,2609600,Olinda (PE),392482,923,2351.7
+4,2609600,Olinda (PE),392482,924,2354.2
 4,2602902,Cabo de Santo Agostinho (PE),207048,493,2381.1
 4,3106200,Belo Horizonte (MG),2512070,6031,2400.8
-4,2704302,Maceió (AL),1018948,2450,2404.4
+4,2704302,Maceió (AL),1018948,2458,2412.3
 4,3523107,Itaquaquecetuba (SP),370821,899,2424.4
 4,3300100,Angra dos Reis (RJ),203785,495,2429.0
-4,4315602,Rio Grande (RS),211005,524,2483.4
+4,4315602,Rio Grande (RS),211005,525,2488.1
 4,3549904,São José dos Campos (SP),721944,1818,2518.2
-4,2504009,Campina Grande (PB),409731,1041,2540.7
+4,2504009,Campina Grande (PB),409731,1043,2545.6
 4,3304904,São Gonçalo (RJ),1084839,2784,2566.3
 4,2303709,Caucaia (CE),361400,932,2578.9
 4,3543907,Rio Claro (SP),206424,534,2586.9
 4,3510609,Carapicuíba (SP),400927,1039,2591.5
-4,5201405,Aparecida de Goiânia (GO),578179,1504,2601.3
+4,5201405,Aparecida de Goiânia (GO),578179,1505,2603.0
 4,3118601,Contagem (MG),663855,1746,2630.1
-4,3526902,Limeira (SP),306114,806,2633.0
 4,1200401,Rio Branco (AC),407319,1076,2641.7
+4,3526902,Limeira (SP),306114,809,2642.8
 4,3552403,Sumaré (SP),282441,748,2648.3
-4,2927408,Salvador (BA),2872347,7619,2652.5
-4,4104808,Cascavel (PR),328454,872,2654.9
-4,3205002,Serra (ES),517510,1410,2724.6
+4,2927408,Salvador (BA),2872347,7624,2654.3
+4,4104808,Cascavel (PR),328454,873,2657.9
+4,3205002,Serra (ES),517510,1412,2728.4
 4,3201209,Cachoeiro de Itapemirim (ES),208972,571,2732.4
 4,3522505,Itapevi (SP),237700,651,2738.7
-4,4209102,Joinville (SC),590466,1622,2747.0
 4,3302403,Macaé (RJ),256672,706,2750.6
+4,4209102,Joinville (SC),590466,1626,2753.8
 4,4323002,Viamão (RS),255224,707,2770.1
 4,4316907,Santa Maria (RS),282123,791,2803.7
-4,4105805,Colombo (PR),243726,685,2810.5
-4,3550308,São Paulo (SP),12252023,34688,2831.2
-4,4204608,Criciúma (SC),215186,611,2839.4
+4,4105805,Colombo (PR),243726,687,2818.7
+4,3550308,São Paulo (SP),12252023,34717,2833.6
 4,3513801,Diadema (SP),423884,1206,2845.1
-4,1600303,Macapá (AP),503327,1435,2851.0
+4,4204608,Criciúma (SC),215186,613,2848.7
 4,3106705,Betim (MG),439340,1254,2854.3
+4,1600303,Macapá (AP),503327,1437,2855.0
 4,5003702,Dourados (MS),222949,637,2857.2
-4,4125506,São José dos Pinhais (PR),323340,926,2863.9
 4,3524402,Jacareí (SP),233662,672,2875.9
-4,2211001,Teresina (PI),864845,2488,2876.8
+4,4125506,São José dos Pinhais (PR),323340,930,2876.2
+4,2211001,Teresina (PI),864845,2490,2879.1
 4,3552502,Suzano (SP),297637,859,2886.1
-4,3519071,Hortolândia (SP),230851,673,2915.3
-4,5218805,Rio Verde (GO),235647,687,2915.4
+4,3519071,Hortolândia (SP),230851,674,2919.6
+4,5218805,Rio Verde (GO),235647,688,2919.6
 4,4318705,São Leopoldo (RS),236835,694,2930.3
-4,2408102,Natal (RN),884122,2592,2931.7
-4,2611606,Recife (PE),1645727,4862,2954.3
+4,2408102,Natal (RN),884122,2595,2935.1
+4,2611606,Recife (PE),1645727,4865,2956.1
 4,3552809,Taboão da Serra (SP),289664,866,2989.7
 4,3506003,Bauru (SP),376818,1129,2996.1
-4,4113700,Londrina (PR),569733,1715,3010.2
-4,4314407,Pelotas (RS),342405,1031,3011.1
+4,4113700,Londrina (PR),569733,1716,3011.9
+4,4314407,Pelotas (RS),342405,1032,3014.0
 4,4309209,Gravataí (RS),281519,849,3015.8
-4,4204202,Chapecó (SC),220367,665,3017.7
 4,3529401,Mauá (SP),472912,1429,3021.7
-4,3538709,Piracicaba (SP),404142,1229,3041.0
+4,4204202,Chapecó (SC),220367,667,3026.8
+4,3538709,Piracicaba (SP),404142,1230,3043.5
 4,1506807,Santarém (PA),304589,931,3056.6
 4,2105302,Imperatriz (MA),258682,792,3061.7
-4,2914802,Itabuna (BA),213223,654,3067.2
+4,2914802,Itabuna (BA),213223,655,3071.9
 4,3551009,São Vicente (SP),365798,1132,3094.6
 4,3501608,Americana (SP),239597,744,3105.2
-4,4119905,Ponta Grossa (PR),351736,1093,3107.4
-4,4314100,Passo Fundo (RS),203275,633,3114.0
+4,4119905,Ponta Grossa (PR),351736,1094,3110.3
 4,3301009,Campos dos Goytacazes (RJ),507548,1583,3118.9
-4,5300108,Brasília (DF),3015268,9479,3143.7
+4,4314100,Passo Fundo (RS),203275,635,3123.8
 4,3301900,Itaboraí (RJ),240592,757,3146.4
+4,5300108,Brasília (DF),3015268,9491,3147.6
 4,4208203,Itajaí (SC),219536,694,3161.2
 4,3300704,Cabo Frio (RJ),226525,721,3182.9
 4,3136702,Juiz de Fora (MG),568873,1817,3194.0
-4,2307650,Maracanaú (CE),227886,728,3194.6
-4,4106902,Curitiba (PR),1933105,6288,3252.8
-4,3205200,Vila Velha (ES),493838,1609,3258.2
-4,3509502,Campinas (SP),1204073,3964,3292.2
-4,3518800,Guarulhos (SP),1379182,4543,3294.0
-4,3205309,Vitória (ES),362097,1206,3330.6
-4,4115200,Maringá (PR),423666,1415,3339.9
+4,2307650,Maracanaú (CE),227886,729,3199.0
+4,4106902,Curitiba (PR),1933105,6292,3254.9
+4,3205200,Vila Velha (ES),493838,1613,3266.3
+4,3509502,Campinas (SP),1204073,3968,3295.5
+4,3518800,Guarulhos (SP),1379182,4565,3309.9
+4,3205309,Vitória (ES),362097,1209,3338.9
 4,3131307,Ipatinga (MG),263410,881,3344.6
+4,4115200,Maringá (PR),423666,1417,3344.6
 4,1501402,Belém (PA),1492745,4998,3348.2
 4,3534401,Osasco (SP),698418,2380,3407.7
-4,3530607,Mogi das Cruzes (SP),445842,1536,3445.2
+4,3530607,Mogi das Cruzes (SP),445842,1537,3447.4
 4,2312908,Sobral (CE),208935,722,3455.6
-4,3525904,Jundiaí (SP),418962,1463,3492.0
-4,1400100,Boa Vista (RR),399213,1399,3504.4
-4,2507507,João Pessoa (PB),809015,2836,3505.5
-4,3201308,Cariacica (ES),381285,1337,3506.6
+4,3525904,Jundiaí (SP),418962,1465,3496.7
+4,1400100,Boa Vista (RR),399213,1400,3506.9
+4,2507507,João Pessoa (PB),809015,2840,3510.4
 4,3170107,Uberaba (MG),333783,1172,3511.3
-4,2304400,Fortaleza (CE),2669342,9381,3514.3
+4,3201308,Cariacica (ES),381285,1339,3511.8
+4,2304400,Fortaleza (CE),2669342,9384,3515.5
 4,4313409,Novo Hamburgo (RS),246748,871,3529.9
-4,4314902,Porto Alegre (RS),1483771,5244,3534.2
-4,4300604,Alvorada (RS),210305,746,3547.2
+4,4314902,Porto Alegre (RS),1483771,5245,3534.9
+4,4300604,Alvorada (RS),210305,747,3552.0
 4,3529005,Marília (SP),238882,851,3562.4
 4,3541406,Presidente Prudente (SP),228743,820,3584.8
 4,3548708,São Bernardo do Campo (SP),838936,3031,3612.9
-4,2800308,Aracaju (SE),657013,2375,3614.8
-4,5208707,Goiânia (GO),1516113,5624,3709.5
+4,2800308,Aracaju (SE),657013,2379,3620.9
+4,5208707,Goiânia (GO),1516113,5627,3711.5
 4,3518701,Guarujá (SP),320459,1200,3744.6
 4,3303302,Niterói (RJ),513584,1926,3750.1
 4,3543402,Ribeirão Preto (SP),703293,2643,3758.0
-4,5107602,Rondonópolis (MT),232491,876,3767.9
 4,3552205,Sorocaba (SP),679378,2566,3777.0
-4,3170206,Uberlândia (MG),691305,2666,3856.5
+4,5107602,Rondonópolis (MT),232491,879,3780.8
+4,3170206,Uberlândia (MG),691305,2671,3863.7
 4,3505708,Barueri (SP),274182,1061,3869.7
-4,5201108,Anápolis (GO),386923,1503,3884.5
+4,5201108,Anápolis (GO),386923,1505,3889.7
 4,3547809,Santo André (SP),718773,2846,3959.5
 4,3306305,Volta Redonda (RJ),273012,1091,3996.2
-4,5002704,Campo Grande (MS),895982,3587,4003.4
-4,4108304,Foz do Iguaçu (PR),258532,1066,4123.3
+4,5002704,Campo Grande (MS),895982,3594,4011.2
+4,4108304,Foz do Iguaçu (PR),258532,1068,4131.0
 4,3127701,Governador Valadares (MG),279885,1165,4162.4
-4,1302603,Manaus (AM),2182763,9237,4231.8
+4,1302603,Manaus (AM),2182763,9245,4235.5
 4,3303906,Petrópolis (RJ),306191,1305,4262.0
-4,3304557,Rio de Janeiro (RJ),6718903,29505,4391.3
-4,5108402,Várzea Grande (MT),284971,1273,4467.1
+4,3304557,Rio de Janeiro (RJ),6718903,29509,4391.9
+4,5108402,Várzea Grande (MT),284971,1277,4481.2
 4,4304606,Canoas (RS),346616,1567,4520.9
 4,3548500,Santos (SP),433311,1990,4592.5
-4,1100205,Porto Velho (RO),529544,2484,4690.8
-4,5103403,Cuiabá (MT),612547,3123,5098.4
-4,3549805,São José do Rio Preto (SP),460671,2602,5648.3
+4,1100205,Porto Velho (RO),529544,2483,4688.9
+4,5103403,Cuiabá (MT),612547,3129,5108.2
+4,3549805,São José do Rio Preto (SP),460671,2609,5663.5
